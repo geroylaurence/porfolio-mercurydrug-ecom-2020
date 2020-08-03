@@ -1,8 +1,6 @@
 const express = require('express');
 const router = express.Router();
 
-const DB = require('../api_services/mercurydrug');
-
 router.post('/category-banner', (req, res, next) => {
   res.status(200).json({ data: [] });
 });
@@ -45,15 +43,7 @@ router.post('/by-category', (req, res, next) => {
 });
 
 router.post('/by-purchased', (req, res, next) => {
-  const MercuryDrug = new DB();
-  MercuryDrug._authorization = req.cookies.accessToken;
-  MercuryDrug.productListByPurchased()
-  .then(data => {
-    res.status(200).json({ data });
-  })
-  .catch(err => {
-    next(err);
-  });
+  res.status(200).json({ data: {} });
 });
 
 router.post('/search-all', (req, res, next) => {
@@ -61,15 +51,7 @@ router.post('/search-all', (req, res, next) => {
     searchTerm
   } =  req.body;
 
-  const MercuryDrug = new DB();
-  MercuryDrug._authorization = req.cookies.accessToken;
-  MercuryDrug.productSearchAll(searchTerm)
-  .then(data => {
-    res.status(200).json({ data });
-  })
-  .catch(err => {
-    next(err);
-  });
+  res.status(200).json({ data: {} });
 });
 
 router.post('/search-by-brand-generics', (req, res, next) => {
@@ -77,15 +59,7 @@ router.post('/search-by-brand-generics', (req, res, next) => {
     searchTerm
   } =  req.body;
 
-  const MercuryDrug = new DB();
-  MercuryDrug._authorization = req.cookies.accessToken;
-  MercuryDrug.productSearchByBrandOrGenerics(searchTerm)
-  .then(data => {
-    res.status(200).json({ data });
-  })
-  .catch(err => {
-    next(err);
-  });
+  res.status(200).json({ data: {} });
 });
 
 router.post('/inquiry', (req, res, next) => {
@@ -94,18 +68,7 @@ router.post('/inquiry', (req, res, next) => {
     message
   } =  req.body;
 
-  const MercuryDrug = new DB();
-  MercuryDrug._authorization = req.cookies.accessToken;
-  MercuryDrug.productInquiry({
-    searchTerms,
-    message,
-  })
-  .then(data => {
-    res.status(200).json({ data });
-  })
-  .catch(err => {
-    next(err);
-  });
+  res.status(200).json({ data: {} });
 });
 
 module.exports = router;

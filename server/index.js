@@ -1,5 +1,4 @@
 require('isomorphic-fetch');
-const config = require('config');
 const path = require('path');
 const cookieParser = require('cookie-parser');
 const bodyParser = require('body-parser');
