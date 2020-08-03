@@ -1,0 +1,282 @@
+[
+  {
+    "createdAt": "2020-06-08T09:35:09.000Z",
+    "updatedAt": "2020-06-08T09:35:09.000Z",
+    "id": 1497,
+    "sku": "3780422",
+    "name": "Diabetasol Sweetener Sachet 50 g",
+    "description": "Diabetasol Sweetener Sachet 50 g",
+    "price": 146,
+    "bonusPoints": 0,
+    "isRxFlag": false,
+    "defaultCategoryMapId": 75,
+    "generics": null,
+    "defaultProductCategory": {
+      "createdAt": "2020-06-08T09:35:07.000Z",
+      "updatedAt": "2020-06-08T09:35:07.000Z",
+      "id": 75,
+      "categoryKey": "3-30",
+      "categoryNames": [
+        "Diabetes Care",
+        "Artificial & Natural Sweeteners"
+      ],
+      "orderKey": 0
+    },
+    "images": [
+      {
+        "createdAt": "2020-06-08T09:35:09.000Z",
+        "updatedAt": "2020-06-08T09:35:09.000Z",
+        "id": 1497,
+        "imageSize": "ORIGINAL",
+        "imageName": "3780422.png",
+        "mimeType": "image/png",
+        "path": "http://34.219.34.224/temp/images/3780422.png"
+      }
+    ]
+  },
+  {
+    "createdAt": "2020-06-08T09:35:09.000Z",
+    "updatedAt": "2020-06-08T09:35:09.000Z",
+    "id": 1498,
+    "sku": "593393",
+    "name": "Equal Sweetener Sachet 50 g x 50's",
+    "description": "Equal Sweetener Sachet 50 g x 50's",
+    "price": 140.75,
+    "bonusPoints": 0,
+    "isRxFlag": false,
+    "defaultCategoryMapId": 75,
+    "generics": null,
+    "defaultProductCategory": {
+      "createdAt": "2020-06-08T09:35:07.000Z",
+      "updatedAt": "2020-06-08T09:35:07.000Z",
+      "id": 75,
+      "categoryKey": "3-30",
+      "categoryNames": [
+        "Diabetes Care",
+        "Artificial & Natural Sweeteners"
+      ],
+      "orderKey": 0
+    },
+    "images": [
+      {
+        "createdAt": "2020-06-08T09:35:09.000Z",
+        "updatedAt": "2020-06-08T09:35:09.000Z",
+        "id": 1498,
+        "imageSize": "ORIGINAL",
+        "imageName": "593393.png",
+        "mimeType": "image/png",
+        "path": "http://34.219.34.224/temp/images/593393.png"
+      }
+    ]
+  },
+  {
+    "createdAt": "2020-06-08T09:35:09.000Z",
+    "updatedAt": "2020-06-08T09:35:09.000Z",
+    "id": 1499,
+    "sku": "593396",
+    "name": "Equal Sweetener Stick 1 g x 100's",
+    "description": "Equal Sweetener Stick 1 g x 100's",
+    "price": 231,
+    "bonusPoints": 0,
+    "isRxFlag": false,
+    "defaultCategoryMapId": 75,
+    "generics": null,
+    "defaultProductCategory": {
+      "createdAt": "2020-06-08T09:35:07.000Z",
+      "updatedAt": "2020-06-08T09:35:07.000Z",
+      "id": 75,
+      "categoryKey": "3-30",
+      "categoryNames": [
+        "Diabetes Care",
+        "Artificial & Natural Sweeteners"
+      ],
+      "orderKey": 0
+    },
+    "images": [
+      {
+        "createdAt": "2020-06-08T09:35:09.000Z",
+        "updatedAt": "2020-06-08T09:35:09.000Z",
+        "id": 1499,
+        "imageSize": "ORIGINAL",
+        "imageName": "593396.png",
+        "mimeType": "image/png",
+        "path": "http://34.219.34.224/temp/images/593396.png"
+      }
+    ]
+  },
+  {
+    "createdAt": "2020-06-08T09:35:09.000Z",
+    "updatedAt": "2020-06-08T09:35:09.000Z",
+    "id": 1535,
+    "sku": "6839255",
+    "name": "Anchor Milk Low Fat UHT 200 mL",
+    "description": "Anchor Milk Low Fat UHT 200 mL",
+    "price": 25,
+    "bonusPoints": 0,
+    "isRxFlag": false,
+    "defaultCategoryMapId": 78,
+    "generics": null,
+    "defaultProductCategory": {
+      "createdAt": "2020-06-08T09:35:07.000Z",
+      "updatedAt": "2020-06-08T09:35:07.000Z",
+      "id": 78,
+      "categoryKey": "3-32",
+      "categoryNames": [
+        "Diabetes Care",
+        "Low-Calorie/Low-Fat Food & Drinks"
+      ],
+      "orderKey": 0
+    },
+    "images": [
+      {
+        "createdAt": "2020-06-08T09:35:09.000Z",
+        "updatedAt": "2020-06-08T09:35:09.000Z",
+        "id": 1535,
+        "imageSize": "ORIGINAL",
+        "imageName": "6839255.png",
+        "mimeType": "image/png",
+        "path": "http://34.219.34.224/temp/images/6839255.png"
+      }
+    ]
+  },
+  {
+    "createdAt": "2020-06-08T09:35:09.000Z",
+    "updatedAt": "2020-06-08T09:35:09.000Z",
+    "id": 1536,
+    "sku": "1167462",
+    "name": "Nestle Fresh Milk Low Fat 250 mL",
+    "description": "Nestle Fresh Milk Low Fat 250 mL",
+    "price": 37,
+    "bonusPoints": 0,
+    "isRxFlag": false,
+    "defaultCategoryMapId": 78,
+    "generics": null,
+    "defaultProductCategory": {
+      "createdAt": "2020-06-08T09:35:07.000Z",
+      "updatedAt": "2020-06-08T09:35:07.000Z",
+      "id": 78,
+      "categoryKey": "3-32",
+      "categoryNames": [
+        "Diabetes Care",
+        "Low-Calorie/Low-Fat Food & Drinks"
+      ],
+      "orderKey": 0
+    },
+    "images": [
+      {
+        "createdAt": "2020-06-08T09:35:09.000Z",
+        "updatedAt": "2020-06-08T09:35:09.000Z",
+        "id": 1536,
+        "imageSize": "ORIGINAL",
+        "imageName": "1167462.png",
+        "mimeType": "image/png",
+        "path": "http://34.219.34.224/temp/images/1167462.png"
+      }
+    ]
+  },
+  {
+    "createdAt": "2020-06-08T09:35:09.000Z",
+    "updatedAt": "2020-06-08T09:35:09.000Z",
+    "id": 1539,
+    "sku": "503444",
+    "name": "Ensure Gold Adult Nutritional Supplemental Powdered Drink Chocolate 850 g",
+    "description": "Ensure Gold Adult Nutritional Supplemental Powdered Drink Chocolate 850 g",
+    "price": 1730,
+    "bonusPoints": 0,
+    "isRxFlag": false,
+    "defaultCategoryMapId": 79,
+    "generics": null,
+    "defaultProductCategory": {
+      "createdAt": "2020-06-08T09:35:07.000Z",
+      "updatedAt": "2020-06-08T09:35:07.000Z",
+      "id": 79,
+      "categoryKey": "3-33",
+      "categoryNames": [
+        "Diabetes Care",
+        "Nutritional Products"
+      ],
+      "orderKey": 0
+    },
+    "images": [
+      {
+        "createdAt": "2020-06-08T09:35:09.000Z",
+        "updatedAt": "2020-06-08T09:35:09.000Z",
+        "id": 1539,
+        "imageSize": "ORIGINAL",
+        "imageName": "503444.png",
+        "mimeType": "image/png",
+        "path": "http://34.219.34.224/temp/images/503444.png"
+      }
+    ]
+  },
+  {
+    "createdAt": "2020-06-08T09:35:09.000Z",
+    "updatedAt": "2020-06-08T09:35:09.000Z",
+    "id": 1540,
+    "sku": "503414",
+    "name": "Ensure Gold Adult Nutritional Supplemental Powdered Drink Vanilla 850 g",
+    "description": "Ensure Gold Adult Nutritional Supplemental Powdered Drink Vanilla 850 g",
+    "price": 1730,
+    "bonusPoints": 0,
+    "isRxFlag": false,
+    "defaultCategoryMapId": 79,
+    "generics": null,
+    "defaultProductCategory": {
+      "createdAt": "2020-06-08T09:35:07.000Z",
+      "updatedAt": "2020-06-08T09:35:07.000Z",
+      "id": 79,
+      "categoryKey": "3-33",
+      "categoryNames": [
+        "Diabetes Care",
+        "Nutritional Products"
+      ],
+      "orderKey": 0
+    },
+    "images": [
+      {
+        "createdAt": "2020-06-08T09:35:09.000Z",
+        "updatedAt": "2020-06-08T09:35:09.000Z",
+        "id": 1540,
+        "imageSize": "ORIGINAL",
+        "imageName": "503414.png",
+        "mimeType": "image/png",
+        "path": "http://34.219.34.224/temp/images/503414.png"
+      }
+    ]
+  },
+  {
+    "createdAt": "2020-06-08T09:35:09.000Z",
+    "updatedAt": "2020-06-08T09:35:09.000Z",
+    "id": 1540,
+    "sku": "503414",
+    "name": "Ensure Gold Adult Nutritional Supplemental Powdered Drink Vanilla 850 g",
+    "description": "Ensure Gold Adult Nutritional Supplemental Powdered Drink Vanilla 850 g",
+    "price": 1730,
+    "bonusPoints": 0,
+    "isRxFlag": false,
+    "defaultCategoryMapId": 79,
+    "generics": null,
+    "defaultProductCategory": {
+      "createdAt": "2020-06-08T09:35:07.000Z",
+      "updatedAt": "2020-06-08T09:35:07.000Z",
+      "id": 79,
+      "categoryKey": "3-33",
+      "categoryNames": [
+        "Diabetes Care",
+        "Nutritional Products"
+      ],
+      "orderKey": 0
+    },
+    "images": [
+      {
+        "createdAt": "2020-06-08T09:35:09.000Z",
+        "updatedAt": "2020-06-08T09:35:09.000Z",
+        "id": 1540,
+        "imageSize": "ORIGINAL",
+        "imageName": "503414.png",
+        "mimeType": "image/png",
+        "path": "http://34.219.34.224/temp/images/503414.png"
+      }
+    ]
+  }
+]

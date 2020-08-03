@@ -1,0 +1,247 @@
+[
+  {
+    "createdAt": "2020-06-08T09:35:09.000Z",
+    "updatedAt": "2020-06-08T09:35:09.000Z",
+    "id": 1594,
+    "sku": "6100058",
+    "name": "Anmum Materna Powdered Milk Drink Low Fat 180 g",
+    "description": "Anmum Materna Powdered Milk Drink Low Fat 180 g",
+    "price": 199,
+    "bonusPoints": 0,
+    "isRxFlag": false,
+    "defaultCategoryMapId": 86,
+    "generics": null,
+    "defaultProductCategory": {
+      "createdAt": "2020-06-08T09:35:07.000Z",
+      "updatedAt": "2020-06-08T09:35:07.000Z",
+      "id": 86,
+      "categoryKey": "4-36",
+      "categoryNames": [
+        "Diet & Fitness",
+        "Milk for Pregnant Women"
+      ],
+      "orderKey": 0
+    },
+    "images": [
+      {
+        "createdAt": "2020-06-08T09:35:09.000Z",
+        "updatedAt": "2020-06-08T09:35:09.000Z",
+        "id": 1594,
+        "imageSize": "ORIGINAL",
+        "imageName": "6100058.png",
+        "mimeType": "image/png",
+        "path": "http://34.219.34.224/temp/images/6100058.png"
+      }
+    ]
+  },
+  {
+    "createdAt": "2020-06-08T09:35:09.000Z",
+    "updatedAt": "2020-06-08T09:35:09.000Z",
+    "id": 1595,
+    "sku": "6100061",
+    "name": "Anmum Materna Powdered Milk Drink Low Fat 375 g",
+    "description": "Anmum Materna Powdered Milk Drink Low Fat 375 g",
+    "price": 389,
+    "bonusPoints": 0,
+    "isRxFlag": false,
+    "defaultCategoryMapId": 86,
+    "generics": null,
+    "defaultProductCategory": {
+      "createdAt": "2020-06-08T09:35:07.000Z",
+      "updatedAt": "2020-06-08T09:35:07.000Z",
+      "id": 86,
+      "categoryKey": "4-36",
+      "categoryNames": [
+        "Diet & Fitness",
+        "Milk for Pregnant Women"
+      ],
+      "orderKey": 0
+    },
+    "images": [
+      {
+        "createdAt": "2020-06-08T09:35:09.000Z",
+        "updatedAt": "2020-06-08T09:35:09.000Z",
+        "id": 1595,
+        "imageSize": "ORIGINAL",
+        "imageName": "6100061.png",
+        "mimeType": "image/png",
+        "path": "http://34.219.34.224/temp/images/6100061.png"
+      }
+    ]
+  },
+  {
+    "createdAt": "2020-06-08T09:35:09.000Z",
+    "updatedAt": "2020-06-08T09:35:09.000Z",
+    "id": 1596,
+    "sku": "6100090",
+    "name": "Anmum Materna Powdered Milk Drink Low Fat 800 g",
+    "description": "Anmum Materna Powdered Milk Drink Low Fat 800 g",
+    "price": 779,
+    "bonusPoints": 0,
+    "isRxFlag": false,
+    "defaultCategoryMapId": 86,
+    "generics": null,
+    "defaultProductCategory": {
+      "createdAt": "2020-06-08T09:35:07.000Z",
+      "updatedAt": "2020-06-08T09:35:07.000Z",
+      "id": 86,
+      "categoryKey": "4-36",
+      "categoryNames": [
+        "Diet & Fitness",
+        "Milk for Pregnant Women"
+      ],
+      "orderKey": 0
+    },
+    "images": [
+      {
+        "createdAt": "2020-06-08T09:35:09.000Z",
+        "updatedAt": "2020-06-08T09:35:09.000Z",
+        "id": 1596,
+        "imageSize": "ORIGINAL",
+        "imageName": "6100090.png",
+        "mimeType": "image/png",
+        "path": "http://34.219.34.224/temp/images/6100090.png"
+      }
+    ]
+  },
+  {
+    "createdAt": "2020-06-08T09:35:09.000Z",
+    "updatedAt": "2020-06-08T09:35:09.000Z",
+    "id": 1612,
+    "sku": "315805",
+    "name": "BioBita Granules 50 g",
+    "description": "BioBita Granules 50 g",
+    "price": 350,
+    "bonusPoints": 0,
+    "isRxFlag": false,
+    "defaultCategoryMapId": 88,
+    "generics": null,
+    "defaultProductCategory": {
+      "createdAt": "2020-06-08T09:35:07.000Z",
+      "updatedAt": "2020-06-08T09:35:07.000Z",
+      "id": 88,
+      "categoryKey": "4-37",
+      "categoryNames": [
+        "Diet & Fitness",
+        "Probiotics"
+      ],
+      "orderKey": 0
+    },
+    "images": [
+      {
+        "createdAt": "2020-06-08T09:35:09.000Z",
+        "updatedAt": "2020-06-08T09:35:09.000Z",
+        "id": 1612,
+        "imageSize": "ORIGINAL",
+        "imageName": "315805.png",
+        "mimeType": "image/png",
+        "path": "http://34.219.34.224/temp/images/315805.png"
+      }
+    ]
+  },
+  {
+    "createdAt": "2020-06-08T09:35:09.000Z",
+    "updatedAt": "2020-06-08T09:35:09.000Z",
+    "id": 1613,
+    "sku": "696514",
+    "name": "Erceflora Proribears Chewable Tablet 4's",
+    "description": "Erceflora Proribears Chewable Tablet 4's",
+    "price": 133,
+    "bonusPoints": 0,
+    "isRxFlag": false,
+    "defaultCategoryMapId": 88,
+    "generics": null,
+    "defaultProductCategory": {
+      "createdAt": "2020-06-08T09:35:07.000Z",
+      "updatedAt": "2020-06-08T09:35:07.000Z",
+      "id": 88,
+      "categoryKey": "4-37",
+      "categoryNames": [
+        "Diet & Fitness",
+        "Probiotics"
+      ],
+      "orderKey": 0
+    },
+    "images": [
+      {
+        "createdAt": "2020-06-08T09:35:09.000Z",
+        "updatedAt": "2020-06-08T09:35:09.000Z",
+        "id": 1613,
+        "imageSize": "ORIGINAL",
+        "imageName": "696514.png",
+        "mimeType": "image/png",
+        "path": "http://34.219.34.224/temp/images/696514.png"
+      }
+    ]
+  },
+  {
+    "createdAt": "2020-06-08T09:35:09.000Z",
+    "updatedAt": "2020-06-08T09:35:09.000Z",
+    "id": 1614,
+    "sku": "701224",
+    "name": "Floracap Capsule 15's",
+    "description": "Floracap Capsule 15's",
+    "price": 540,
+    "bonusPoints": 0,
+    "isRxFlag": false,
+    "defaultCategoryMapId": 88,
+    "generics": null,
+    "defaultProductCategory": {
+      "createdAt": "2020-06-08T09:35:07.000Z",
+      "updatedAt": "2020-06-08T09:35:07.000Z",
+      "id": 88,
+      "categoryKey": "4-37",
+      "categoryNames": [
+        "Diet & Fitness",
+        "Probiotics"
+      ],
+      "orderKey": 0
+    },
+    "images": [
+      {
+        "createdAt": "2020-06-08T09:35:09.000Z",
+        "updatedAt": "2020-06-11T04:28:49.000Z",
+        "id": 1614,
+        "imageSize": "ORIGINAL",
+        "imageName": "701224.png",
+        "mimeType": "image/png",
+        "path": "http://34.219.34.224/temp/images/701224.png"
+      }
+    ]
+  },
+  {
+    "createdAt": "2020-06-08T09:35:09.000Z",
+    "updatedAt": "2020-06-08T09:35:09.000Z",
+    "id": 1537,
+    "sku": "4025145",
+    "name": "Nestle Optifast Chocolate Bar Very Low Calorie 420 g",
+    "description": "Nestle Optifast Chocolate Bar Very Low Calorie 420 g",
+    "price": 900,
+    "bonusPoints": 0,
+    "isRxFlag": false,
+    "defaultCategoryMapId": 78,
+    "generics": null,
+    "defaultProductCategory": {
+      "createdAt": "2020-06-08T09:35:07.000Z",
+      "updatedAt": "2020-06-08T09:35:07.000Z",
+      "id": 78,
+      "categoryKey": "3-32",
+      "categoryNames": [
+        "Diabetes Care",
+        "Low-Calorie/Low-Fat Food & Drinks"
+      ],
+      "orderKey": 0
+    },
+    "images": [
+      {
+        "createdAt": "2020-06-08T09:35:09.000Z",
+        "updatedAt": "2020-06-08T09:35:09.000Z",
+        "id": 1537,
+        "imageSize": "ORIGINAL",
+        "imageName": "4025145.png",
+        "mimeType": "image/png",
+        "path": "http://34.219.34.224/temp/images/4025145.png"
+      }
+    ]
+  }
+]

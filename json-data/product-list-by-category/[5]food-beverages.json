@@ -1,0 +1,216 @@
+[
+  {
+    "createdAt": "2020-06-08T09:35:09.000Z",
+    "updatedAt": "2020-06-08T09:35:09.000Z",
+    "id": 1633,
+    "sku": "1094850",
+    "name": "Porta Raisin Seedless 100 g",
+    "description": "Porta Raisin Seedless 100 g",
+    "price": 40,
+    "bonusPoints": 0,
+    "isRxFlag": false,
+    "defaultCategoryMapId": 96,
+    "generics": null,
+    "defaultProductCategory": {
+      "createdAt": "2020-06-08T09:35:07.000Z",
+      "updatedAt": "2020-06-08T09:35:07.000Z",
+      "id": 96,
+      "categoryKey": "5-39",
+      "categoryNames": [
+        "Food & Beverages",
+        "Dried Fruit"
+      ],
+      "orderKey": 0
+    },
+    "images": [
+      {
+        "createdAt": "2020-06-08T09:35:09.000Z",
+        "updatedAt": "2020-06-08T09:35:09.000Z",
+        "id": 1633,
+        "imageSize": "ORIGINAL",
+        "imageName": "1094850.png",
+        "mimeType": "image/png",
+        "path": "http://34.219.34.224/temp/images/1094850.png"
+      }
+    ]
+  },
+  {
+    "createdAt": "2020-06-08T09:35:09.000Z",
+    "updatedAt": "2020-06-08T09:35:09.000Z",
+    "id": 1634,
+    "sku": "1094852",
+    "name": "Porta Raisin Seedless 250 g",
+    "description": "Porta Raisin Seedless 250 g",
+    "price": 79,
+    "bonusPoints": 0,
+    "isRxFlag": false,
+    "defaultCategoryMapId": 96,
+    "generics": null,
+    "defaultProductCategory": {
+      "createdAt": "2020-06-08T09:35:07.000Z",
+      "updatedAt": "2020-06-08T09:35:07.000Z",
+      "id": 96,
+      "categoryKey": "5-39",
+      "categoryNames": [
+        "Food & Beverages",
+        "Dried Fruit"
+      ],
+      "orderKey": 0
+    },
+    "images": [
+      {
+        "createdAt": "2020-06-08T09:35:09.000Z",
+        "updatedAt": "2020-06-08T09:35:09.000Z",
+        "id": 1634,
+        "imageSize": "ORIGINAL",
+        "imageName": "1094852.png",
+        "mimeType": "image/png",
+        "path": "http://34.219.34.224/temp/images/1094852.png"
+      }
+    ]
+  },
+  {
+    "createdAt": "2020-06-08T09:35:09.000Z",
+    "updatedAt": "2020-06-08T09:35:09.000Z",
+    "id": 1628,
+    "sku": "3723373",
+    "name": "Adelle Ashitaba Tea with Chalcone 2 g x 10's",
+    "description": "Adelle Ashitaba Tea with Chalcone 2 g x 10's",
+    "price": 145,
+    "bonusPoints": 0,
+    "isRxFlag": false,
+    "defaultCategoryMapId": 94,
+    "generics": null,
+    "defaultProductCategory": {
+      "createdAt": "2020-06-08T09:35:07.000Z",
+      "updatedAt": "2020-06-08T09:35:07.000Z",
+      "id": 94,
+      "categoryKey": "5-38-152",
+      "categoryNames": [
+        "Food & Beverages",
+        "Beverages",
+        "Herbal Beverages"
+      ],
+      "orderKey": 0
+    },
+    "images": [
+      {
+        "createdAt": "2020-06-08T09:35:09.000Z",
+        "updatedAt": "2020-06-08T09:35:09.000Z",
+        "id": 1628,
+        "imageSize": "ORIGINAL",
+        "imageName": "3723373.png",
+        "mimeType": "image/png",
+        "path": "http://34.219.34.224/temp/images/3723373.png"
+      }
+    ]
+  },
+  {
+    "createdAt": "2020-06-08T09:35:09.000Z",
+    "updatedAt": "2020-06-08T09:35:09.000Z",
+    "id": 1629,
+    "sku": "487049",
+    "name": "Delite Salabat Herbal Tea 2 g x 20's",
+    "description": "Delite Salabat Herbal Tea 2 g x 20's",
+    "price": 200,
+    "bonusPoints": 0,
+    "isRxFlag": false,
+    "defaultCategoryMapId": 94,
+    "generics": null,
+    "defaultProductCategory": {
+      "createdAt": "2020-06-08T09:35:07.000Z",
+      "updatedAt": "2020-06-08T09:35:07.000Z",
+      "id": 94,
+      "categoryKey": "5-38-152",
+      "categoryNames": [
+        "Food & Beverages",
+        "Beverages",
+        "Herbal Beverages"
+      ],
+      "orderKey": 0
+    },
+    "images": [
+      {
+        "createdAt": "2020-06-08T09:35:09.000Z",
+        "updatedAt": "2020-06-08T09:35:09.000Z",
+        "id": 1629,
+        "imageSize": "ORIGINAL",
+        "imageName": "487049.png",
+        "mimeType": "image/png",
+        "path": "http://34.219.34.224/temp/images/487049.png"
+      }
+    ]
+  },
+  {
+    "createdAt": "2020-06-08T09:35:09.000Z",
+    "updatedAt": "2020-06-08T09:35:09.000Z",
+    "id": 1630,
+    "sku": "487060",
+    "name": "Delite Turmeric-Ginger Herbal Tea 2 g x 20's",
+    "description": "Delite Turmeric-Ginger Herbal Tea 2 g x 20's",
+    "price": 200,
+    "bonusPoints": 0,
+    "isRxFlag": false,
+    "defaultCategoryMapId": 94,
+    "generics": null,
+    "defaultProductCategory": {
+      "createdAt": "2020-06-08T09:35:07.000Z",
+      "updatedAt": "2020-06-08T09:35:07.000Z",
+      "id": 94,
+      "categoryKey": "5-38-152",
+      "categoryNames": [
+        "Food & Beverages",
+        "Beverages",
+        "Herbal Beverages"
+      ],
+      "orderKey": 0
+    },
+    "images": [
+      {
+        "createdAt": "2020-06-08T09:35:09.000Z",
+        "updatedAt": "2020-06-08T09:35:09.000Z",
+        "id": 1630,
+        "imageSize": "ORIGINAL",
+        "imageName": "487060.png",
+        "mimeType": "image/png",
+        "path": "http://34.219.34.224/temp/images/487060.png"
+      }
+    ]
+  },
+  {
+    "createdAt": "2020-06-08T09:35:09.000Z",
+    "updatedAt": "2020-06-08T09:35:09.000Z",
+    "id": 1631,
+    "sku": "3611260",
+    "name": "Moringa & More Lemongrass Tea 120 g",
+    "description": "Moringa & More Lemongrass Tea 120 g",
+    "price": 180,
+    "bonusPoints": 0,
+    "isRxFlag": false,
+    "defaultCategoryMapId": 94,
+    "generics": null,
+    "defaultProductCategory": {
+      "createdAt": "2020-06-08T09:35:07.000Z",
+      "updatedAt": "2020-06-08T09:35:07.000Z",
+      "id": 94,
+      "categoryKey": "5-38-152",
+      "categoryNames": [
+        "Food & Beverages",
+        "Beverages",
+        "Herbal Beverages"
+      ],
+      "orderKey": 0
+    },
+    "images": [
+      {
+        "createdAt": "2020-06-08T09:35:09.000Z",
+        "updatedAt": "2020-06-08T09:35:09.000Z",
+        "id": 1631,
+        "imageSize": "ORIGINAL",
+        "imageName": "3611260.png",
+        "mimeType": "image/png",
+        "path": "http://34.219.34.224/temp/images/3611260.png"
+      }
+    ]
+  }
+]

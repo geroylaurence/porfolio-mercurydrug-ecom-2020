@@ -1,0 +1,317 @@
+[
+  {
+    "createdAt": "2020-06-08T09:35:09.000Z",
+    "updatedAt": "2020-06-08T09:35:09.000Z",
+    "id": 1738,
+    "sku": "481048",
+    "name": "Albatross Deodorizer Apple 100 g",
+    "description": "Albatross Deodorizer Apple 100 g",
+    "price": 45.5,
+    "bonusPoints": 0,
+    "isRxFlag": false,
+    "defaultCategoryMapId": 124,
+    "generics": null,
+    "defaultProductCategory": {
+      "createdAt": "2020-06-08T09:35:07.000Z",
+      "updatedAt": "2020-06-08T09:35:07.000Z",
+      "id": 124,
+      "categoryKey": "8-50",
+      "categoryNames": [
+        "Household",
+        "Air Fresheners & Deodorants"
+      ],
+      "orderKey": 0
+    },
+    "images": [
+      {
+        "createdAt": "2020-06-08T09:35:09.000Z",
+        "updatedAt": "2020-06-08T09:35:09.000Z",
+        "id": 1738,
+        "imageSize": "ORIGINAL",
+        "imageName": "481048.png",
+        "mimeType": "image/png",
+        "path": "http://34.219.34.224/temp/images/481048.png"
+      }
+    ]
+  },
+  {
+    "createdAt": "2020-06-08T09:35:09.000Z",
+    "updatedAt": "2020-06-08T09:35:09.000Z",
+    "id": 1739,
+    "sku": "481049",
+    "name": "Albatross Deodorizer Apple with Holder 100 g",
+    "description": "Albatross Deodorizer Apple with Holder 100 g",
+    "price": 52,
+    "bonusPoints": 0,
+    "isRxFlag": false,
+    "defaultCategoryMapId": 124,
+    "generics": null,
+    "defaultProductCategory": {
+      "createdAt": "2020-06-08T09:35:07.000Z",
+      "updatedAt": "2020-06-08T09:35:07.000Z",
+      "id": 124,
+      "categoryKey": "8-50",
+      "categoryNames": [
+        "Household",
+        "Air Fresheners & Deodorants"
+      ],
+      "orderKey": 0
+    },
+    "images": [
+      {
+        "createdAt": "2020-06-08T09:35:09.000Z",
+        "updatedAt": "2020-06-08T09:35:09.000Z",
+        "id": 1739,
+        "imageSize": "ORIGINAL",
+        "imageName": "481049.png",
+        "mimeType": "image/png",
+        "path": "http://34.219.34.224/temp/images/481049.png"
+      }
+    ]
+  },
+  {
+    "createdAt": "2020-06-08T09:35:09.000Z",
+    "updatedAt": "2020-06-08T09:35:09.000Z",
+    "id": 1740,
+    "sku": "481063",
+    "name": "Albatross Deodorizer Jasmine 100 g",
+    "description": "Albatross Deodorizer Jasmine 100 g",
+    "price": 45.5,
+    "bonusPoints": 0,
+    "isRxFlag": false,
+    "defaultCategoryMapId": 124,
+    "generics": null,
+    "defaultProductCategory": {
+      "createdAt": "2020-06-08T09:35:07.000Z",
+      "updatedAt": "2020-06-08T09:35:07.000Z",
+      "id": 124,
+      "categoryKey": "8-50",
+      "categoryNames": [
+        "Household",
+        "Air Fresheners & Deodorants"
+      ],
+      "orderKey": 0
+    },
+    "images": [
+      {
+        "createdAt": "2020-06-08T09:35:09.000Z",
+        "updatedAt": "2020-06-08T09:35:09.000Z",
+        "id": 1740,
+        "imageSize": "ORIGINAL",
+        "imageName": "481063.png",
+        "mimeType": "image/png",
+        "path": "http://34.219.34.224/temp/images/481063.png"
+      }
+    ]
+  },
+  {
+    "createdAt": "2020-06-08T09:35:09.000Z",
+    "updatedAt": "2020-06-08T09:35:09.000Z",
+    "id": 1741,
+    "sku": "481115",
+    "name": "Albatross Deodorizer Kiwi 100 g",
+    "description": "Albatross Deodorizer Kiwi 100 g",
+    "price": 45.5,
+    "bonusPoints": 0,
+    "isRxFlag": false,
+    "defaultCategoryMapId": 124,
+    "generics": null,
+    "defaultProductCategory": {
+      "createdAt": "2020-06-08T09:35:07.000Z",
+      "updatedAt": "2020-06-08T09:35:07.000Z",
+      "id": 124,
+      "categoryKey": "8-50",
+      "categoryNames": [
+        "Household",
+        "Air Fresheners & Deodorants"
+      ],
+      "orderKey": 0
+    },
+    "images": [
+      {
+        "createdAt": "2020-06-08T09:35:09.000Z",
+        "updatedAt": "2020-06-08T09:35:09.000Z",
+        "id": 1741,
+        "imageSize": "ORIGINAL",
+        "imageName": "481115.png",
+        "mimeType": "image/png",
+        "path": "http://34.219.34.224/temp/images/481115.png"
+      }
+    ]
+  },
+  {
+    "createdAt": "2020-06-08T09:35:09.000Z",
+    "updatedAt": "2020-06-08T09:35:09.000Z",
+    "id": 1742,
+    "sku": "481117",
+    "name": "Albatross Deodorizer Kiwi with Holder 100 g",
+    "description": "Albatross Deodorizer Kiwi with Holder 100 g",
+    "price": 52,
+    "bonusPoints": 0,
+    "isRxFlag": false,
+    "defaultCategoryMapId": 124,
+    "generics": null,
+    "defaultProductCategory": {
+      "createdAt": "2020-06-08T09:35:07.000Z",
+      "updatedAt": "2020-06-08T09:35:07.000Z",
+      "id": 124,
+      "categoryKey": "8-50",
+      "categoryNames": [
+        "Household",
+        "Air Fresheners & Deodorants"
+      ],
+      "orderKey": 0
+    },
+    "images": [
+      {
+        "createdAt": "2020-06-08T09:35:09.000Z",
+        "updatedAt": "2020-06-08T09:35:09.000Z",
+        "id": 1742,
+        "imageSize": "ORIGINAL",
+        "imageName": "481117.png",
+        "mimeType": "image/png",
+        "path": "http://34.219.34.224/temp/images/481117.png"
+      }
+    ]
+  },
+  {
+    "createdAt": "2020-06-08T09:35:09.000Z",
+    "updatedAt": "2020-06-08T09:35:09.000Z",
+    "id": 1768,
+    "sku": "727050",
+    "name": "Lysol All Purpose Cleaner Lavender 180 mL",
+    "description": "Lysol All Purpose Cleaner Lavender 180 mL",
+    "price": 47,
+    "bonusPoints": 0,
+    "isRxFlag": false,
+    "defaultCategoryMapId": 125,
+    "generics": null,
+    "defaultProductCategory": {
+      "createdAt": "2020-06-08T09:35:07.000Z",
+      "updatedAt": "2020-06-08T09:35:07.000Z",
+      "id": 125,
+      "categoryKey": "8-51",
+      "categoryNames": [
+        "Household",
+        "Cleansers & Cleaners"
+      ],
+      "orderKey": 0
+    },
+    "images": [
+      {
+        "createdAt": "2020-06-08T09:35:09.000Z",
+        "updatedAt": "2020-06-08T09:35:09.000Z",
+        "id": 1768,
+        "imageSize": "ORIGINAL",
+        "imageName": "727050.png",
+        "mimeType": "image/png",
+        "path": "http://34.219.34.224/temp/images/727050.png"
+      }
+    ]
+  },
+  {
+    "createdAt": "2020-06-08T09:35:09.000Z",
+    "updatedAt": "2020-06-08T09:35:09.000Z",
+    "id": 1769,
+    "sku": "727051",
+    "name": "Lysol All Purpose Cleaner Lavender 510 mL",
+    "description": "Lysol All Purpose Cleaner Lavender 510 mL",
+    "price": 117,
+    "bonusPoints": 0,
+    "isRxFlag": false,
+    "defaultCategoryMapId": 125,
+    "generics": null,
+    "defaultProductCategory": {
+      "createdAt": "2020-06-08T09:35:07.000Z",
+      "updatedAt": "2020-06-08T09:35:07.000Z",
+      "id": 125,
+      "categoryKey": "8-51",
+      "categoryNames": [
+        "Household",
+        "Cleansers & Cleaners"
+      ],
+      "orderKey": 0
+    },
+    "images": [
+      {
+        "createdAt": "2020-06-08T09:35:09.000Z",
+        "updatedAt": "2020-06-08T09:35:09.000Z",
+        "id": 1769,
+        "imageSize": "ORIGINAL",
+        "imageName": "727051.png",
+        "mimeType": "image/png",
+        "path": "http://34.219.34.224/temp/images/727051.png"
+      }
+    ]
+  },
+  {
+    "createdAt": "2020-06-08T09:35:09.000Z",
+    "updatedAt": "2020-06-08T09:35:09.000Z",
+    "id": 1770,
+    "sku": "727052",
+    "name": "Lysol All Purpose Cleaner Lemon 180 mL",
+    "description": "Lysol All Purpose Cleaner Lemon 180 mL",
+    "price": 47,
+    "bonusPoints": 0,
+    "isRxFlag": false,
+    "defaultCategoryMapId": 125,
+    "generics": null,
+    "defaultProductCategory": {
+      "createdAt": "2020-06-08T09:35:07.000Z",
+      "updatedAt": "2020-06-08T09:35:07.000Z",
+      "id": 125,
+      "categoryKey": "8-51",
+      "categoryNames": [
+        "Household",
+        "Cleansers & Cleaners"
+      ],
+      "orderKey": 0
+    },
+    "images": [
+      {
+        "createdAt": "2020-06-08T09:35:09.000Z",
+        "updatedAt": "2020-06-08T09:35:09.000Z",
+        "id": 1770,
+        "imageSize": "ORIGINAL",
+        "imageName": "727052.png",
+        "mimeType": "image/png",
+        "path": "http://34.219.34.224/temp/images/727052.png"
+      }
+    ]
+  },
+  {
+    "createdAt": "2020-06-08T09:35:09.000Z",
+    "updatedAt": "2020-06-08T09:35:09.000Z",
+    "id": 1771,
+    "sku": "727053",
+    "name": "Lysol All Purpose Cleaner Lemon 510 mL",
+    "description": "Lysol All Purpose Cleaner Lemon 510 mL",
+    "price": 117,
+    "bonusPoints": 0,
+    "isRxFlag": false,
+    "defaultCategoryMapId": 125,
+    "generics": null,
+    "defaultProductCategory": {
+      "createdAt": "2020-06-08T09:35:07.000Z",
+      "updatedAt": "2020-06-08T09:35:07.000Z",
+      "id": 125,
+      "categoryKey": "8-51",
+      "categoryNames": [
+        "Household",
+        "Cleansers & Cleaners"
+      ],
+      "orderKey": 0
+    },
+    "images": [
+      {
+        "createdAt": "2020-06-08T09:35:09.000Z",
+        "updatedAt": "2020-06-08T09:35:09.000Z",
+        "id": 1771,
+        "imageSize": "ORIGINAL",
+        "imageName": "727053.png",
+        "mimeType": "image/png",
+        "path": "http://34.219.34.224/temp/images/727053.png"
+      }
+    ]
+  }
+]

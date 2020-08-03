@@ -1,0 +1,326 @@
+[
+  {
+    "createdAt": "2020-06-08T09:35:09.000Z",
+    "updatedAt": "2020-06-08T09:35:09.000Z",
+    "id": 893,
+    "sku": "795793",
+    "name": "Garnier Facial Scrub Light Intensive Brightening 100 mL",
+    "description": "Garnier Facial Scrub Light Intensive Brightening 100 mL",
+    "price": 159,
+    "bonusPoints": 0,
+    "isRxFlag": false,
+    "defaultCategoryMapId": 43,
+    "generics": null,
+    "defaultProductCategory": {
+      "createdAt": "2020-06-08T09:35:07.000Z",
+      "updatedAt": "2020-06-08T09:35:07.000Z",
+      "id": 43,
+      "categoryKey": "2-22-127",
+      "categoryNames": [
+        "Beauty & Personal Care",
+        "Facial Care",
+        "Facial Cleanser, Wash & Scrub"
+      ],
+      "orderKey": 0
+    },
+    "images": [
+      {
+        "createdAt": "2020-06-08T09:35:09.000Z",
+        "updatedAt": "2020-06-08T09:35:09.000Z",
+        "id": 893,
+        "imageSize": "ORIGINAL",
+        "imageName": "795793.png",
+        "mimeType": "image/png",
+        "path": "http://34.219.34.224/temp/images/795793.png"
+      }
+    ]
+  },
+  {
+    "createdAt": "2020-06-08T09:35:09.000Z",
+    "updatedAt": "2020-06-08T09:35:09.000Z",
+    "id": 892,
+    "sku": "795792",
+    "name": "Garnier Facial Scrub Light Intensive Brightening 50 mL",
+    "description": "Garnier Facial Scrub Light Intensive Brightening 50 mL",
+    "price": 89,
+    "bonusPoints": 0,
+    "isRxFlag": false,
+    "defaultCategoryMapId": 43,
+    "generics": null,
+    "defaultProductCategory": {
+      "createdAt": "2020-06-08T09:35:07.000Z",
+      "updatedAt": "2020-06-08T09:35:07.000Z",
+      "id": 43,
+      "categoryKey": "2-22-127",
+      "categoryNames": [
+        "Beauty & Personal Care",
+        "Facial Care",
+        "Facial Cleanser, Wash & Scrub"
+      ],
+      "orderKey": 0
+    },
+    "images": [
+      {
+        "createdAt": "2020-06-08T09:35:09.000Z",
+        "updatedAt": "2020-06-08T09:35:09.000Z",
+        "id": 892,
+        "imageSize": "ORIGINAL",
+        "imageName": "795792.png",
+        "mimeType": "image/png",
+        "path": "http://34.219.34.224/temp/images/795792.png"
+      }
+    ]
+  },
+  {
+    "createdAt": "2020-06-08T09:35:09.000Z",
+    "updatedAt": "2020-06-08T09:35:09.000Z",
+    "id": 895,
+    "sku": "795795",
+    "name": "Garnier Facial Scrub Multi-Action 100 mL",
+    "description": "Garnier Facial Scrub Multi-Action 100 mL",
+    "price": 159,
+    "bonusPoints": 0,
+    "isRxFlag": false,
+    "defaultCategoryMapId": 43,
+    "generics": null,
+    "defaultProductCategory": {
+      "createdAt": "2020-06-08T09:35:07.000Z",
+      "updatedAt": "2020-06-08T09:35:07.000Z",
+      "id": 43,
+      "categoryKey": "2-22-127",
+      "categoryNames": [
+        "Beauty & Personal Care",
+        "Facial Care",
+        "Facial Cleanser, Wash & Scrub"
+      ],
+      "orderKey": 0
+    },
+    "images": [
+      {
+        "createdAt": "2020-06-08T09:35:09.000Z",
+        "updatedAt": "2020-06-08T09:35:09.000Z",
+        "id": 895,
+        "imageSize": "ORIGINAL",
+        "imageName": "795795.png",
+        "mimeType": "image/png",
+        "path": "http://34.219.34.224/temp/images/795795.png"
+      }
+    ]
+  },
+  {
+    "createdAt": "2020-06-08T09:35:09.000Z",
+    "updatedAt": "2020-06-08T09:35:09.000Z",
+    "id": 450,
+    "sku": "796209",
+    "name": "Belo Essentials Lotion Brightening + Protecting SPF30 100 mL",
+    "description": "Belo Essentials Lotion Brightening + Protecting SPF30 100 mL",
+    "price": 99.75,
+    "bonusPoints": 0,
+    "isRxFlag": false,
+    "defaultCategoryMapId": 30,
+    "generics": null,
+    "defaultProductCategory": {
+      "createdAt": "2020-06-08T09:35:07.000Z",
+      "updatedAt": "2020-06-08T09:35:07.000Z",
+      "id": 30,
+      "categoryKey": "2-19-121",
+      "categoryNames": [
+        "Beauty & Personal Care",
+        "Bath & Body",
+        "Body Cream, Lotion & Moisturizer"
+      ],
+      "orderKey": 0
+    },
+    "images": [
+      {
+        "createdAt": "2020-06-08T09:35:09.000Z",
+        "updatedAt": "2020-06-08T09:35:09.000Z",
+        "id": 450,
+        "imageSize": "ORIGINAL",
+        "imageName": "796209.png",
+        "mimeType": "image/png",
+        "path": "http://34.219.34.224/temp/images/796209.png"
+      }
+    ]
+  },
+  {
+    "createdAt": "2020-06-08T09:35:09.000Z",
+    "updatedAt": "2020-06-08T09:35:09.000Z",
+    "id": 451,
+    "sku": "796213",
+    "name": "Belo Essentials Lotion Brightening + Protecting SPF30 200 mL",
+    "description": "Belo Essentials Lotion Brightening + Protecting SPF30 200 mL",
+    "price": 179.75,
+    "bonusPoints": 0,
+    "isRxFlag": false,
+    "defaultCategoryMapId": 30,
+    "generics": null,
+    "defaultProductCategory": {
+      "createdAt": "2020-06-08T09:35:07.000Z",
+      "updatedAt": "2020-06-08T09:35:07.000Z",
+      "id": 30,
+      "categoryKey": "2-19-121",
+      "categoryNames": [
+        "Beauty & Personal Care",
+        "Bath & Body",
+        "Body Cream, Lotion & Moisturizer"
+      ],
+      "orderKey": 0
+    },
+    "images": [
+      {
+        "createdAt": "2020-06-08T09:35:09.000Z",
+        "updatedAt": "2020-06-08T09:35:09.000Z",
+        "id": 451,
+        "imageSize": "ORIGINAL",
+        "imageName": "796213.png",
+        "mimeType": "image/png",
+        "path": "http://34.219.34.224/temp/images/796213.png"
+      }
+    ]
+  },
+  {
+    "createdAt": "2020-06-08T09:35:09.000Z",
+    "updatedAt": "2020-06-08T09:35:09.000Z",
+    "id": 452,
+    "sku": "209118",
+    "name": "Cetaphil Lotion Advance Ultra Hydrating 85 g",
+    "description": "Cetaphil Lotion Advance Ultra Hydrating 85 g",
+    "price": 759,
+    "bonusPoints": 0,
+    "isRxFlag": false,
+    "defaultCategoryMapId": 30,
+    "generics": null,
+    "defaultProductCategory": {
+      "createdAt": "2020-06-08T09:35:07.000Z",
+      "updatedAt": "2020-06-08T09:35:07.000Z",
+      "id": 30,
+      "categoryKey": "2-19-121",
+      "categoryNames": [
+        "Beauty & Personal Care",
+        "Bath & Body",
+        "Body Cream, Lotion & Moisturizer"
+      ],
+      "orderKey": 0
+    },
+    "images": [
+      {
+        "createdAt": "2020-06-08T09:35:09.000Z",
+        "updatedAt": "2020-06-08T09:35:09.000Z",
+        "id": 452,
+        "imageSize": "ORIGINAL",
+        "imageName": "209118.png",
+        "mimeType": "image/png",
+        "path": "http://34.219.34.224/temp/images/209118.png"
+      }
+    ]
+  },
+  {
+    "createdAt": "2020-06-08T09:35:09.000Z",
+    "updatedAt": "2020-06-08T09:35:09.000Z",
+    "id": 742,
+    "sku": "3980070",
+    "name": "Dove Antiperspirant Roll-On Sensitive Fragrance Free 150 mL",
+    "description": "Dove Antiperspirant Roll-On Sensitive Fragrance Free 150 mL",
+    "price": 195,
+    "bonusPoints": 0,
+    "isRxFlag": false,
+    "defaultCategoryMapId": 39,
+    "generics": null,
+    "defaultProductCategory": {
+      "createdAt": "2020-06-08T09:35:07.000Z",
+      "updatedAt": "2020-06-08T09:35:07.000Z",
+      "id": 39,
+      "categoryKey": "2-21-125",
+      "categoryNames": [
+        "Beauty & Personal Care",
+        "Deodorants & Antiperspirants",
+        "Antiperspirants"
+      ],
+      "orderKey": 0
+    },
+    "images": [
+      {
+        "createdAt": "2020-06-08T09:35:09.000Z",
+        "updatedAt": "2020-06-08T09:35:09.000Z",
+        "id": 742,
+        "imageSize": "ORIGINAL",
+        "imageName": "3980070.png",
+        "mimeType": "image/png",
+        "path": "http://34.219.34.224/temp/images/3980070.png"
+      }
+    ]
+  },
+  {
+    "createdAt": "2020-06-08T09:35:09.000Z",
+    "updatedAt": "2020-06-08T09:35:09.000Z",
+    "id": 741,
+    "sku": "3980053",
+    "name": "Dove Antiperspirant Roll-On Sensitive Fragrance Free 40 mL",
+    "description": "Dove Antiperspirant Roll-On Sensitive Fragrance Free 40 mL",
+    "price": 106,
+    "bonusPoints": 0,
+    "isRxFlag": false,
+    "defaultCategoryMapId": 39,
+    "generics": null,
+    "defaultProductCategory": {
+      "createdAt": "2020-06-08T09:35:07.000Z",
+      "updatedAt": "2020-06-08T09:35:07.000Z",
+      "id": 39,
+      "categoryKey": "2-21-125",
+      "categoryNames": [
+        "Beauty & Personal Care",
+        "Deodorants & Antiperspirants",
+        "Antiperspirants"
+      ],
+      "orderKey": 0
+    },
+    "images": [
+      {
+        "createdAt": "2020-06-08T09:35:09.000Z",
+        "updatedAt": "2020-06-08T09:35:09.000Z",
+        "id": 741,
+        "imageSize": "ORIGINAL",
+        "imageName": "3980053.png",
+        "mimeType": "image/png",
+        "path": "http://34.219.34.224/temp/images/3980053.png"
+      }
+    ]
+  },
+  {
+    "createdAt": "2020-06-08T09:35:09.000Z",
+    "updatedAt": "2020-06-08T09:35:09.000Z",
+    "id": 743,
+    "sku": "3980355",
+    "name": "Dove Antiperspirant Roll-On Ultimate Repair Fresh Lily 40 mL",
+    "description": "Dove Antiperspirant Roll-On Ultimate Repair Fresh Lily 40 mL",
+    "price": 106,
+    "bonusPoints": 0,
+    "isRxFlag": false,
+    "defaultCategoryMapId": 39,
+    "generics": null,
+    "defaultProductCategory": {
+      "createdAt": "2020-06-08T09:35:07.000Z",
+      "updatedAt": "2020-06-08T09:35:07.000Z",
+      "id": 39,
+      "categoryKey": "2-21-125",
+      "categoryNames": [
+        "Beauty & Personal Care",
+        "Deodorants & Antiperspirants",
+        "Antiperspirants"
+      ],
+      "orderKey": 0
+    },
+    "images": [
+      {
+        "createdAt": "2020-06-08T09:35:09.000Z",
+        "updatedAt": "2020-06-08T09:35:09.000Z",
+        "id": 743,
+        "imageSize": "ORIGINAL",
+        "imageName": "3980355.png",
+        "mimeType": "image/png",
+        "path": "http://34.219.34.224/temp/images/3980355.png"
+      }
+    ]
+  }
+]

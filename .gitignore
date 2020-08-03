@@ -1,0 +1,33 @@
+#default ignores
+node_modules
+buildClient/
+buildServer/
+sample_assets/
+config/
+
+# IDEs and editors
+/.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# misc
+npm-debug.log*
+yarn-error.log*
+testem.log*
+lerna-debug.log
+yarn-debug.log*
+
+# System Files
+.DS_Store
+Thumbs.db

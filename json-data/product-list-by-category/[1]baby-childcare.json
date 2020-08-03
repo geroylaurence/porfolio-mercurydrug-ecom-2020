@@ -1,0 +1,391 @@
+[
+  {
+    "createdAt": "2020-06-08T09:35:09.000Z",
+    "updatedAt": "2020-06-08T09:35:09.000Z",
+    "id": 105,
+    "sku": "7100075",
+    "name": "Bonamil Milk Supplement 6-12 mos 180 g",
+    "description": "Bonamil Milk Supplement 6-12 mos 180 g",
+    "price": 100,
+    "bonusPoints": 0,
+    "isRxFlag": false,
+    "defaultCategoryMapId": 8,
+    "generics": null,
+    "defaultProductCategory": {
+      "createdAt": "2020-06-08T09:35:07.000Z",
+      "updatedAt": "2020-06-08T09:35:07.000Z",
+      "id": 8,
+      "categoryKey": "1-16-103",
+      "categoryNames": [
+        "Baby & Child Care",
+        "Milk",
+        "Follow-On Formula"
+      ],
+      "orderKey": 0
+    },
+    "images": [
+      {
+        "createdAt": "2020-06-08T09:35:09.000Z",
+        "updatedAt": "2020-06-08T09:35:09.000Z",
+        "id": 105,
+        "imageSize": "ORIGINAL",
+        "imageName": "7100075.png",
+        "mimeType": "image/png",
+        "path": "http://34.219.34.224/temp/images/7100075.png"
+      }
+    ]
+  },
+  {
+    "createdAt": "2020-06-08T09:35:09.000Z",
+    "updatedAt": "2020-06-08T09:35:09.000Z",
+    "id": 106,
+    "sku": "7100078",
+    "name": "Bonamil Milk Supplement 6-12 mos 400 g",
+    "description": "Bonamil Milk Supplement 6-12 mos 400 g",
+    "price": 222.25,
+    "bonusPoints": 0,
+    "isRxFlag": false,
+    "defaultCategoryMapId": 8,
+    "generics": null,
+    "defaultProductCategory": {
+      "createdAt": "2020-06-08T09:35:07.000Z",
+      "updatedAt": "2020-06-08T09:35:07.000Z",
+      "id": 8,
+      "categoryKey": "1-16-103",
+      "categoryNames": [
+        "Baby & Child Care",
+        "Milk",
+        "Follow-On Formula"
+      ],
+      "orderKey": 0
+    },
+    "images": [
+      {
+        "createdAt": "2020-06-08T09:35:09.000Z",
+        "updatedAt": "2020-06-08T09:35:09.000Z",
+        "id": 106,
+        "imageSize": "ORIGINAL",
+        "imageName": "7100078.png",
+        "mimeType": "image/png",
+        "path": "http://34.219.34.224/temp/images/7100078.png"
+      }
+    ]
+  },
+  {
+    "createdAt": "2020-06-08T09:35:09.000Z",
+    "updatedAt": "2020-06-08T09:35:09.000Z",
+    "id": 109,
+    "sku": "744308",
+    "name": "Enfamil A+ Two Milk Supplement Powder 6-12 mos 1.2 Kg",
+    "description": "Enfamil A+ Two Milk Supplement Powder 6-12 mos 1.2 Kg",
+    "price": 1720,
+    "bonusPoints": 0,
+    "isRxFlag": false,
+    "defaultCategoryMapId": 8,
+    "generics": null,
+    "defaultProductCategory": {
+      "createdAt": "2020-06-08T09:35:07.000Z",
+      "updatedAt": "2020-06-08T09:35:07.000Z",
+      "id": 8,
+      "categoryKey": "1-16-103",
+      "categoryNames": [
+        "Baby & Child Care",
+        "Milk",
+        "Follow-On Formula"
+      ],
+      "orderKey": 0
+    },
+    "images": [
+      {
+        "createdAt": "2020-06-08T09:35:09.000Z",
+        "updatedAt": "2020-06-08T09:35:09.000Z",
+        "id": 109,
+        "imageSize": "ORIGINAL",
+        "imageName": "744308.png",
+        "mimeType": "image/png",
+        "path": "http://34.219.34.224/temp/images/744308.png"
+      }
+    ]
+  },
+  {
+    "createdAt": "2020-06-08T09:35:09.000Z",
+    "updatedAt": "2020-06-08T09:35:09.000Z",
+    "id": 110,
+    "sku": "744367",
+    "name": "Enfamil A+ Two Milk Supplement Powder 6-12 mos 1.8 Kg",
+    "description": "Enfamil A+ Two Milk Supplement Powder 6-12 mos 1.8 Kg",
+    "price": 2294,
+    "bonusPoints": 0,
+    "isRxFlag": false,
+    "defaultCategoryMapId": 8,
+    "generics": null,
+    "defaultProductCategory": {
+      "createdAt": "2020-06-08T09:35:07.000Z",
+      "updatedAt": "2020-06-08T09:35:07.000Z",
+      "id": 8,
+      "categoryKey": "1-16-103",
+      "categoryNames": [
+        "Baby & Child Care",
+        "Milk",
+        "Follow-On Formula"
+      ],
+      "orderKey": 0
+    },
+    "images": [
+      {
+        "createdAt": "2020-06-08T09:35:09.000Z",
+        "updatedAt": "2020-06-08T09:35:09.000Z",
+        "id": 110,
+        "imageSize": "ORIGINAL",
+        "imageName": "744367.png",
+        "mimeType": "image/png",
+        "path": "http://34.219.34.224/temp/images/744367.png"
+      }
+    ]
+  },
+  {
+    "createdAt": "2020-06-08T09:35:09.000Z",
+    "updatedAt": "2020-06-08T09:35:09.000Z",
+    "id": 51,
+    "sku": "861215",
+    "name": "Babyflo Feeding Bottle Educational Nurser 8 oz",
+    "description": "Babyflo Feeding Bottle Educational Nurser 8 oz",
+    "price": 95,
+    "bonusPoints": 0,
+    "isRxFlag": false,
+    "defaultCategoryMapId": 5,
+    "generics": null,
+    "defaultProductCategory": {
+      "createdAt": "2020-06-08T09:35:07.000Z",
+      "updatedAt": "2020-06-08T09:35:07.000Z",
+      "id": 5,
+      "categoryKey": "1-14",
+      "categoryNames": [
+        "Baby & Child Care",
+        "Feeding Devices & Accessories"
+      ],
+      "orderKey": 0
+    },
+    "images": [
+      {
+        "createdAt": "2020-06-08T09:35:09.000Z",
+        "updatedAt": "2020-06-08T09:35:09.000Z",
+        "id": 51,
+        "imageSize": "ORIGINAL",
+        "imageName": "861215.png",
+        "mimeType": "image/png",
+        "path": "http://34.219.34.224/temp/images/861215.png"
+      }
+    ]
+  },
+  {
+    "createdAt": "2020-06-08T09:35:09.000Z",
+    "updatedAt": "2020-06-08T09:35:09.000Z",
+    "id": 85,
+    "sku": "861353",
+    "name": "Babyflo Spill-Proof Cup",
+    "description": "Babyflo Spill-Proof Cup",
+    "price": 139.75,
+    "bonusPoints": 0,
+    "isRxFlag": false,
+    "defaultCategoryMapId": 5,
+    "generics": null,
+    "defaultProductCategory": {
+      "createdAt": "2020-06-08T09:35:07.000Z",
+      "updatedAt": "2020-06-08T09:35:07.000Z",
+      "id": 5,
+      "categoryKey": "1-14",
+      "categoryNames": [
+        "Baby & Child Care",
+        "Feeding Devices & Accessories"
+      ],
+      "orderKey": 0
+    },
+    "images": [
+      {
+        "createdAt": "2020-06-08T09:35:09.000Z",
+        "updatedAt": "2020-06-08T09:35:09.000Z",
+        "id": 85,
+        "imageSize": "ORIGINAL",
+        "imageName": "861353.png",
+        "mimeType": "image/png",
+        "path": "http://34.219.34.224/temp/images/861353.png"
+      }
+    ]
+  },
+  {
+    "createdAt": "2020-06-08T09:35:09.000Z",
+    "updatedAt": "2020-06-08T09:35:09.000Z",
+    "id": 56,
+    "sku": "861222",
+    "name": "Babyflo Feeding Bottle Nursery Rhyme 9 oz",
+    "description": "Babyflo Feeding Bottle Nursery Rhyme 9 oz",
+    "price": 78,
+    "bonusPoints": 0,
+    "isRxFlag": false,
+    "defaultCategoryMapId": 5,
+    "generics": null,
+    "defaultProductCategory": {
+      "createdAt": "2020-06-08T09:35:07.000Z",
+      "updatedAt": "2020-06-08T09:35:07.000Z",
+      "id": 5,
+      "categoryKey": "1-14",
+      "categoryNames": [
+        "Baby & Child Care",
+        "Feeding Devices & Accessories"
+      ],
+      "orderKey": 0
+    },
+    "images": [
+      {
+        "createdAt": "2020-06-08T09:35:09.000Z",
+        "updatedAt": "2020-06-08T09:35:09.000Z",
+        "id": 56,
+        "imageSize": "ORIGINAL",
+        "imageName": "861222.png",
+        "mimeType": "image/png",
+        "path": "http://34.219.34.224/temp/images/861222.png"
+      }
+    ]
+  },
+  {
+    "createdAt": "2020-06-08T09:35:09.000Z",
+    "updatedAt": "2020-06-08T09:35:09.000Z",
+    "id": 96,
+    "sku": "501176",
+    "name": "Cerelac Mixed Fruit & Soya 120 g",
+    "description": "Cerelac Mixed Fruit & Soya 120 g",
+    "price": 59,
+    "bonusPoints": 0,
+    "isRxFlag": false,
+    "defaultCategoryMapId": 6,
+    "generics": null,
+    "defaultProductCategory": {
+      "createdAt": "2020-06-08T09:35:07.000Z",
+      "updatedAt": "2020-06-08T09:35:07.000Z",
+      "id": 6,
+      "categoryKey": "1-15",
+      "categoryNames": [
+        "Baby & Child Care",
+        "Food & Water"
+      ],
+      "orderKey": 0
+    },
+    "images": [
+      {
+        "createdAt": "2020-06-08T09:35:09.000Z",
+        "updatedAt": "2020-06-08T09:35:09.000Z",
+        "id": 96,
+        "imageSize": "ORIGINAL",
+        "imageName": "501176.png",
+        "mimeType": "image/png",
+        "path": "http://34.219.34.224/temp/images/501176.png"
+      }
+    ]
+  },
+  {
+    "createdAt": "2020-06-08T09:35:09.000Z",
+    "updatedAt": "2020-06-08T09:35:09.000Z",
+    "id": 97,
+    "sku": "501185",
+    "name": "Cerelac Mixed Fruit & Soya 250 g",
+    "description": "Cerelac Mixed Fruit & Soya 250 g",
+    "price": 120.75,
+    "bonusPoints": 0,
+    "isRxFlag": false,
+    "defaultCategoryMapId": 6,
+    "generics": null,
+    "defaultProductCategory": {
+      "createdAt": "2020-06-08T09:35:07.000Z",
+      "updatedAt": "2020-06-08T09:35:07.000Z",
+      "id": 6,
+      "categoryKey": "1-15",
+      "categoryNames": [
+        "Baby & Child Care",
+        "Food & Water"
+      ],
+      "orderKey": 0
+    },
+    "images": [
+      {
+        "createdAt": "2020-06-08T09:35:09.000Z",
+        "updatedAt": "2020-06-08T09:35:09.000Z",
+        "id": 97,
+        "imageSize": "ORIGINAL",
+        "imageName": "501185.png",
+        "mimeType": "image/png",
+        "path": "http://34.219.34.224/temp/images/501185.png"
+      }
+    ]
+  },
+  {
+    "createdAt": "2020-06-08T09:35:09.000Z",
+    "updatedAt": "2020-06-08T09:35:09.000Z",
+    "id": 98,
+    "sku": "501177",
+    "name": "Cerelac Mixed Vegetables & Soya 120 g",
+    "description": "Cerelac Mixed Vegetables & Soya 120 g",
+    "price": 59,
+    "bonusPoints": 0,
+    "isRxFlag": false,
+    "defaultCategoryMapId": 6,
+    "generics": null,
+    "defaultProductCategory": {
+      "createdAt": "2020-06-08T09:35:07.000Z",
+      "updatedAt": "2020-06-08T09:35:07.000Z",
+      "id": 6,
+      "categoryKey": "1-15",
+      "categoryNames": [
+        "Baby & Child Care",
+        "Food & Water"
+      ],
+      "orderKey": 0
+    },
+    "images": [
+      {
+        "createdAt": "2020-06-08T09:35:09.000Z",
+        "updatedAt": "2020-06-08T09:35:09.000Z",
+        "id": 98,
+        "imageSize": "ORIGINAL",
+        "imageName": "501177.png",
+        "mimeType": "image/png",
+        "path": "http://34.219.34.224/temp/images/501177.png"
+      }
+    ]
+  },
+  {
+    "createdAt": "2020-06-08T09:35:09.000Z",
+    "updatedAt": "2020-06-08T09:35:09.000Z",
+    "id": 99,
+    "sku": "501179",
+    "name": "Cerelac Rice & Soya 250 g",
+    "description": "Cerelac Rice & Soya 250 g",
+    "price": 120.75,
+    "bonusPoints": 0,
+    "isRxFlag": false,
+    "defaultCategoryMapId": 6,
+    "generics": null,
+    "defaultProductCategory": {
+      "createdAt": "2020-06-08T09:35:07.000Z",
+      "updatedAt": "2020-06-08T09:35:07.000Z",
+      "id": 6,
+      "categoryKey": "1-15",
+      "categoryNames": [
+        "Baby & Child Care",
+        "Food & Water"
+      ],
+      "orderKey": 0
+    },
+    "images": [
+      {
+        "createdAt": "2020-06-08T09:35:09.000Z",
+        "updatedAt": "2020-06-08T09:35:09.000Z",
+        "id": 99,
+        "imageSize": "ORIGINAL",
+        "imageName": "501179.png",
+        "mimeType": "image/png",
+        "path": "http://34.219.34.224/temp/images/501179.png"
+      }
+    ]
+  }
+]

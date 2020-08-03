@@ -1,0 +1,443 @@
+[
+  {
+    "createdAt": "2020-06-08T09:35:09.000Z",
+    "updatedAt": "2020-06-08T09:35:09.000Z",
+    "id": 2623,
+    "sku": "574250",
+    "name": "Appebon with Iron Capsule 4's",
+    "description": "Appebon with Iron Capsule 4's",
+    "price": 80,
+    "bonusPoints": 0,
+    "isRxFlag": true,
+    "defaultCategoryMapId": 196,
+    "generics": {
+      "createdAt": "2020-06-08T09:35:07.000Z",
+      "updatedAt": "2020-06-08T09:35:07.000Z",
+      "id": 339,
+      "name": "Vit B Complex-Iron-Buclizine",
+      "genericName": "Vit B Complex-Iron-Buclizine",
+      "description": "Vit B Complex-Iron-Buclizine",
+      "pdfFile": null
+    },
+    "defaultProductCategory": {
+      "createdAt": "2020-06-08T09:35:07.000Z",
+      "updatedAt": "2020-06-08T09:35:07.000Z",
+      "id": 196,
+      "categoryKey": "11-93",
+      "categoryNames": [
+        "Vitamins & Supplements",
+        "Appetite Stimulants"
+      ],
+      "orderKey": 0
+    },
+    "images": [
+      {
+        "createdAt": "2020-06-08T09:35:09.000Z",
+        "updatedAt": "2020-06-08T09:35:09.000Z",
+        "id": 2623,
+        "imageSize": "ORIGINAL",
+        "imageName": "MDC%20RX%20image_grey.png",
+        "mimeType": "image/png",
+        "path": "http://34.219.34.224/temp/images/MDC%20RX%20image_grey.png"
+      }
+    ]
+  },
+  {
+    "createdAt": "2020-06-08T09:35:09.000Z",
+    "updatedAt": "2020-06-08T09:35:09.000Z",
+    "id": 2625,
+    "sku": "574255",
+    "name": "Appebon with Iron Syrup 120 mL",
+    "description": "Appebon with Iron Syrup 120 mL",
+    "price": 500,
+    "bonusPoints": 0,
+    "isRxFlag": true,
+    "defaultCategoryMapId": 196,
+    "generics": {
+      "createdAt": "2020-06-08T09:35:07.000Z",
+      "updatedAt": "2020-06-08T09:35:07.000Z",
+      "id": 340,
+      "name": "Vit B Complex-Iron-Lysine-Buclizine",
+      "genericName": "Vit B Complex-Iron-Lysine-Buclizine",
+      "description": "Vit B Complex-Iron-Lysine-Buclizine",
+      "pdfFile": null
+    },
+    "defaultProductCategory": {
+      "createdAt": "2020-06-08T09:35:07.000Z",
+      "updatedAt": "2020-06-08T09:35:07.000Z",
+      "id": 196,
+      "categoryKey": "11-93",
+      "categoryNames": [
+        "Vitamins & Supplements",
+        "Appetite Stimulants"
+      ],
+      "orderKey": 0
+    },
+    "images": [
+      {
+        "createdAt": "2020-06-08T09:35:09.000Z",
+        "updatedAt": "2020-06-08T09:35:09.000Z",
+        "id": 2625,
+        "imageSize": "ORIGINAL",
+        "imageName": "MDC%20RX%20image_grey.png",
+        "mimeType": "image/png",
+        "path": "http://34.219.34.224/temp/images/MDC%20RX%20image_grey.png"
+      }
+    ]
+  },
+  {
+    "createdAt": "2020-06-08T09:35:09.000Z",
+    "updatedAt": "2020-06-08T09:35:09.000Z",
+    "id": 2654,
+    "sku": "612653",
+    "name": "Rhea Calcium Ascorbate + Zinc 554 mg/4.3 mg Capsule 4's",
+    "description": "Rhea Calcium Ascorbate + Zinc 554 mg/4.3 mg Capsule 4's",
+    "price": 29,
+    "bonusPoints": 0,
+    "isRxFlag": false,
+    "defaultCategoryMapId": 197,
+    "generics": {
+      "createdAt": "2020-06-08T09:35:07.000Z",
+      "updatedAt": "2020-06-08T09:35:07.000Z",
+      "id": 53,
+      "name": "Calcium Ascorbate-Zinc",
+      "genericName": "Calcium Ascorbate-Zinc",
+      "description": "Calcium Ascorbate-Zinc",
+      "pdfFile": null
+    },
+    "defaultProductCategory": {
+      "createdAt": "2020-06-08T09:35:07.000Z",
+      "updatedAt": "2020-06-08T09:35:07.000Z",
+      "id": 197,
+      "categoryKey": "11-94",
+      "categoryNames": [
+        "Vitamins & Supplements",
+        "Calcium & Minerals"
+      ],
+      "orderKey": 0
+    },
+    "images": [
+      {
+        "createdAt": "2020-06-08T09:35:09.000Z",
+        "updatedAt": "2020-06-08T09:35:09.000Z",
+        "id": 2654,
+        "imageSize": "ORIGINAL",
+        "imageName": "612653.png",
+        "mimeType": "image/png",
+        "path": "http://34.219.34.224/temp/images/612653.png"
+      }
+    ]
+  },
+  {
+    "createdAt": "2020-06-08T09:35:09.000Z",
+    "updatedAt": "2020-06-08T09:35:09.000Z",
+    "id": 2655,
+    "sku": "612715",
+    "name": "Rhea Calcium Lactate 325 mg Tablet 100's",
+    "description": "Rhea Calcium Lactate 325 mg Tablet 100's",
+    "price": 100,
+    "bonusPoints": 0,
+    "isRxFlag": false,
+    "defaultCategoryMapId": 197,
+    "generics": {
+      "createdAt": "2020-06-08T09:35:07.000Z",
+      "updatedAt": "2020-06-08T09:35:07.000Z",
+      "id": 57,
+      "name": "Calcium Lactate",
+      "genericName": "Calcium Lactate",
+      "description": "Calcium Lactate",
+      "pdfFile": "http://34.219.34.224/temp/pdf/Calcium%20Lactate.pdf"
+    },
+    "defaultProductCategory": {
+      "createdAt": "2020-06-08T09:35:07.000Z",
+      "updatedAt": "2020-06-08T09:35:07.000Z",
+      "id": 197,
+      "categoryKey": "11-94",
+      "categoryNames": [
+        "Vitamins & Supplements",
+        "Calcium & Minerals"
+      ],
+      "orderKey": 0
+    },
+    "images": [
+      {
+        "createdAt": "2020-06-08T09:35:09.000Z",
+        "updatedAt": "2020-06-08T09:35:09.000Z",
+        "id": 2655,
+        "imageSize": "ORIGINAL",
+        "imageName": "612715.png",
+        "mimeType": "image/png",
+        "path": "http://34.219.34.224/temp/images/612715.png"
+      }
+    ]
+  },
+  {
+    "createdAt": "2020-06-08T09:35:09.000Z",
+    "updatedAt": "2020-06-08T09:35:09.000Z",
+    "id": 2656,
+    "sku": "612730",
+    "name": "Rhea Calcium Lactate 650 mg Tablet 100's",
+    "description": "Rhea Calcium Lactate 650 mg Tablet 100's",
+    "price": 162,
+    "bonusPoints": 0,
+    "isRxFlag": false,
+    "defaultCategoryMapId": 197,
+    "generics": {
+      "createdAt": "2020-06-08T09:35:07.000Z",
+      "updatedAt": "2020-06-08T09:35:07.000Z",
+      "id": 57,
+      "name": "Calcium Lactate",
+      "genericName": "Calcium Lactate",
+      "description": "Calcium Lactate",
+      "pdfFile": "http://34.219.34.224/temp/pdf/Calcium%20Lactate.pdf"
+    },
+    "defaultProductCategory": {
+      "createdAt": "2020-06-08T09:35:07.000Z",
+      "updatedAt": "2020-06-08T09:35:07.000Z",
+      "id": 197,
+      "categoryKey": "11-94",
+      "categoryNames": [
+        "Vitamins & Supplements",
+        "Calcium & Minerals"
+      ],
+      "orderKey": 0
+    },
+    "images": [
+      {
+        "createdAt": "2020-06-08T09:35:09.000Z",
+        "updatedAt": "2020-06-08T09:35:09.000Z",
+        "id": 2656,
+        "imageSize": "ORIGINAL",
+        "imageName": "612730.png",
+        "mimeType": "image/png",
+        "path": "http://34.219.34.224/temp/images/612730.png"
+      }
+    ]
+  },
+  {
+    "createdAt": "2020-06-08T09:35:09.000Z",
+    "updatedAt": "2020-06-08T09:35:09.000Z",
+    "id": 2643,
+    "sku": "403238",
+    "name": "Calci-Aid 500 mg Softgel Capsule 10's",
+    "description": "Calci-Aid 500 mg Softgel Capsule 10's",
+    "price": 87.5,
+    "bonusPoints": 0,
+    "isRxFlag": false,
+    "defaultCategoryMapId": 197,
+    "generics": {
+      "createdAt": "2020-06-08T09:35:07.000Z",
+      "updatedAt": "2020-06-08T09:35:07.000Z",
+      "id": 54,
+      "name": "Calcium Carbonate",
+      "genericName": "Calcium Carbonate",
+      "description": "Calcium Carbonate",
+      "pdfFile": "http://34.219.34.224/temp/pdf/Calcium%20Carbonate.pdf"
+    },
+    "defaultProductCategory": {
+      "createdAt": "2020-06-08T09:35:07.000Z",
+      "updatedAt": "2020-06-08T09:35:07.000Z",
+      "id": 197,
+      "categoryKey": "11-94",
+      "categoryNames": [
+        "Vitamins & Supplements",
+        "Calcium & Minerals"
+      ],
+      "orderKey": 0
+    },
+    "images": [
+      {
+        "createdAt": "2020-06-08T09:35:09.000Z",
+        "updatedAt": "2020-06-08T09:35:09.000Z",
+        "id": 2643,
+        "imageSize": "ORIGINAL",
+        "imageName": "403238.png",
+        "mimeType": "image/png",
+        "path": "http://34.219.34.224/temp/images/403238.png"
+      }
+    ]
+  },
+  {
+    "createdAt": "2020-06-08T09:35:09.000Z",
+    "updatedAt": "2020-06-08T09:35:09.000Z",
+    "id": 2658,
+    "sku": "632930",
+    "name": "4G Capsule 10's",
+    "description": "4G Capsule 10's",
+    "price": 230,
+    "bonusPoints": 0,
+    "isRxFlag": false,
+    "defaultCategoryMapId": 198,
+    "generics": {
+      "createdAt": "2020-06-08T09:35:07.000Z",
+      "updatedAt": "2020-06-08T09:35:07.000Z",
+      "id": 141,
+      "name": "Garlic-Ginseng-Grapeseed-Ginkgo",
+      "genericName": "Garlic-Ginseng-Grapeseed-Ginkgo",
+      "description": "Garlic-Ginseng-Grapeseed-Ginkgo",
+      "pdfFile": null
+    },
+    "defaultProductCategory": {
+      "createdAt": "2020-06-08T09:35:07.000Z",
+      "updatedAt": "2020-06-08T09:35:07.000Z",
+      "id": 198,
+      "categoryKey": "11-95",
+      "categoryNames": [
+        "Vitamins & Supplements",
+        "Supplements"
+      ],
+      "orderKey": 0
+    },
+    "images": [
+      {
+        "createdAt": "2020-06-08T09:35:09.000Z",
+        "updatedAt": "2020-06-08T09:35:09.000Z",
+        "id": 2658,
+        "imageSize": "ORIGINAL",
+        "imageName": "632930.png",
+        "mimeType": "image/png",
+        "path": "http://34.219.34.224/temp/images/632930.png"
+      }
+    ]
+  },
+  {
+    "createdAt": "2020-06-08T09:35:09.000Z",
+    "updatedAt": "2020-06-08T09:35:09.000Z",
+    "id": 2659,
+    "sku": "801468",
+    "name": "ABS Herbs Ashitaba Tea 12's",
+    "description": "ABS Herbs Ashitaba Tea 12's",
+    "price": 121.5,
+    "bonusPoints": 0,
+    "isRxFlag": false,
+    "defaultCategoryMapId": 198,
+    "generics": null,
+    "defaultProductCategory": {
+      "createdAt": "2020-06-08T09:35:07.000Z",
+      "updatedAt": "2020-06-08T09:35:07.000Z",
+      "id": 198,
+      "categoryKey": "11-95",
+      "categoryNames": [
+        "Vitamins & Supplements",
+        "Supplements"
+      ],
+      "orderKey": 0
+    },
+    "images": [
+      {
+        "createdAt": "2020-06-08T09:35:09.000Z",
+        "updatedAt": "2020-06-08T09:35:09.000Z",
+        "id": 2659,
+        "imageSize": "ORIGINAL",
+        "imageName": "801468.png",
+        "mimeType": "image/png",
+        "path": "http://34.219.34.224/temp/images/801468.png"
+      }
+    ]
+  },
+  {
+    "createdAt": "2020-06-08T09:35:09.000Z",
+    "updatedAt": "2020-06-08T09:35:09.000Z",
+    "id": 2660,
+    "sku": "801481",
+    "name": "ABS Herbs Grace Virgin Coconut Oil 250 mL",
+    "description": "ABS Herbs Grace Virgin Coconut Oil 250 mL",
+    "price": 209,
+    "bonusPoints": 0,
+    "isRxFlag": false,
+    "defaultCategoryMapId": 198,
+    "generics": null,
+    "defaultProductCategory": {
+      "createdAt": "2020-06-08T09:35:07.000Z",
+      "updatedAt": "2020-06-08T09:35:07.000Z",
+      "id": 198,
+      "categoryKey": "11-95",
+      "categoryNames": [
+        "Vitamins & Supplements",
+        "Supplements"
+      ],
+      "orderKey": 0
+    },
+    "images": [
+      {
+        "createdAt": "2020-06-08T09:35:09.000Z",
+        "updatedAt": "2020-06-08T09:35:09.000Z",
+        "id": 2660,
+        "imageSize": "ORIGINAL",
+        "imageName": "801481.png",
+        "mimeType": "image/png",
+        "path": "http://34.219.34.224/temp/images/801481.png"
+      }
+    ]
+  },
+  {
+    "createdAt": "2020-06-08T09:35:09.000Z",
+    "updatedAt": "2020-06-08T09:35:09.000Z",
+    "id": 2661,
+    "sku": "801475",
+    "name": "ABS Herbs Herbal Tea 25's",
+    "description": "ABS Herbs Herbal Tea 25's",
+    "price": 255,
+    "bonusPoints": 0,
+    "isRxFlag": false,
+    "defaultCategoryMapId": 198,
+    "generics": null,
+    "defaultProductCategory": {
+      "createdAt": "2020-06-08T09:35:07.000Z",
+      "updatedAt": "2020-06-08T09:35:07.000Z",
+      "id": 198,
+      "categoryKey": "11-95",
+      "categoryNames": [
+        "Vitamins & Supplements",
+        "Supplements"
+      ],
+      "orderKey": 0
+    },
+    "images": [
+      {
+        "createdAt": "2020-06-08T09:35:09.000Z",
+        "updatedAt": "2020-06-08T09:35:09.000Z",
+        "id": 2661,
+        "imageSize": "ORIGINAL",
+        "imageName": "801475.png",
+        "mimeType": "image/png",
+        "path": "http://34.219.34.224/temp/images/801475.png"
+      }
+    ]
+  },
+  {
+    "createdAt": "2020-06-08T09:35:09.000Z",
+    "updatedAt": "2020-06-08T09:35:09.000Z",
+    "id": 2662,
+    "sku": "801476",
+    "name": "ABS Herbs Lagundi Tea 12's",
+    "description": "ABS Herbs Lagundi Tea 12's",
+    "price": 69.5,
+    "bonusPoints": 0,
+    "isRxFlag": false,
+    "defaultCategoryMapId": 198,
+    "generics": null,
+    "defaultProductCategory": {
+      "createdAt": "2020-06-08T09:35:07.000Z",
+      "updatedAt": "2020-06-08T09:35:07.000Z",
+      "id": 198,
+      "categoryKey": "11-95",
+      "categoryNames": [
+        "Vitamins & Supplements",
+        "Supplements"
+      ],
+      "orderKey": 0
+    },
+    "images": [
+      {
+        "createdAt": "2020-06-08T09:35:09.000Z",
+        "updatedAt": "2020-06-08T09:35:09.000Z",
+        "id": 2662,
+        "imageSize": "ORIGINAL",
+        "imageName": "801476.png",
+        "mimeType": "image/png",
+        "path": "http://34.219.34.224/temp/images/801476.png"
+      }
+    ]
+  }
+]

@@ -1,0 +1,389 @@
+[
+  {
+    "createdAt": "2020-06-08T09:35:09.000Z",
+    "updatedAt": "2020-06-08T09:35:09.000Z",
+    "id": 1836,
+    "sku": "244102",
+    "name": "Acnetrex 10 10 mg Capsule 30's",
+    "description": "Acnetrex 10 10 mg Capsule 30's",
+    "price": 1508.75,
+    "bonusPoints": 0,
+    "isRxFlag": true,
+    "defaultCategoryMapId": 135,
+    "generics": {
+      "createdAt": "2020-06-08T09:35:07.000Z",
+      "updatedAt": "2020-06-08T09:35:07.000Z",
+      "id": 172,
+      "name": "Isotretinoin",
+      "genericName": "Isotretinoin",
+      "description": "Isotretinoin",
+      "pdfFile": "http://34.219.34.224/temp/pdf/Isotretinoin.pdf"
+    },
+    "defaultProductCategory": {
+      "createdAt": "2020-06-08T09:35:07.000Z",
+      "updatedAt": "2020-06-08T09:35:07.000Z",
+      "id": 135,
+      "categoryKey": "9-57",
+      "categoryNames": [
+        "Medicines",
+        "Acne"
+      ],
+      "orderKey": 0
+    },
+    "images": [
+      {
+        "createdAt": "2020-06-08T09:35:09.000Z",
+        "updatedAt": "2020-06-08T09:35:09.000Z",
+        "id": 1836,
+        "imageSize": "ORIGINAL",
+        "imageName": "MDC%20RX%20image_grey.png",
+        "mimeType": "image/png",
+        "path": "http://34.219.34.224/temp/images/MDC%20RX%20image_grey.png"
+      }
+    ]
+  },
+  {
+    "createdAt": "2020-06-08T09:35:09.000Z",
+    "updatedAt": "2020-06-08T09:35:09.000Z",
+    "id": 1837,
+    "sku": "209074",
+    "name": "Benzac 0.1 Spots Treatment Gel 15 g",
+    "description": "Benzac 0.1 Spots Treatment Gel 15 g",
+    "price": 398.75,
+    "bonusPoints": 0,
+    "isRxFlag": false,
+    "defaultCategoryMapId": 135,
+    "generics": {
+      "createdAt": "2020-06-08T09:35:07.000Z",
+      "updatedAt": "2020-06-08T09:35:07.000Z",
+      "id": 33,
+      "name": "Benzoyl Peroxide",
+      "genericName": "Benzoyl Peroxide",
+      "description": "Benzoyl Peroxide",
+      "pdfFile": "http://34.219.34.224/temp/pdf/Benzoyl%20Peroxide.pdf"
+    },
+    "defaultProductCategory": {
+      "createdAt": "2020-06-08T09:35:07.000Z",
+      "updatedAt": "2020-06-08T09:35:07.000Z",
+      "id": 135,
+      "categoryKey": "9-57",
+      "categoryNames": [
+        "Medicines",
+        "Acne"
+      ],
+      "orderKey": 0
+    },
+    "images": [
+      {
+        "createdAt": "2020-06-08T09:35:09.000Z",
+        "updatedAt": "2020-06-08T09:35:09.000Z",
+        "id": 1837,
+        "imageSize": "ORIGINAL",
+        "imageName": "209074.png",
+        "mimeType": "image/png",
+        "path": "http://34.219.34.224/temp/images/209074.png"
+      }
+    ]
+  },
+  {
+    "createdAt": "2020-06-08T09:35:09.000Z",
+    "updatedAt": "2020-06-08T09:35:09.000Z",
+    "id": 1838,
+    "sku": "209071",
+    "name": "Benzac 0.1 Spots Treatment Gel 60 g",
+    "description": "Benzac 0.1 Spots Treatment Gel 60 g",
+    "price": 980,
+    "bonusPoints": 0,
+    "isRxFlag": false,
+    "defaultCategoryMapId": 135,
+    "generics": {
+      "createdAt": "2020-06-08T09:35:07.000Z",
+      "updatedAt": "2020-06-08T09:35:07.000Z",
+      "id": 33,
+      "name": "Benzoyl Peroxide",
+      "genericName": "Benzoyl Peroxide",
+      "description": "Benzoyl Peroxide",
+      "pdfFile": "http://34.219.34.224/temp/pdf/Benzoyl%20Peroxide.pdf"
+    },
+    "defaultProductCategory": {
+      "createdAt": "2020-06-08T09:35:07.000Z",
+      "updatedAt": "2020-06-08T09:35:07.000Z",
+      "id": 135,
+      "categoryKey": "9-57",
+      "categoryNames": [
+        "Medicines",
+        "Acne"
+      ],
+      "orderKey": 0
+    },
+    "images": [
+      {
+        "createdAt": "2020-06-08T09:35:09.000Z",
+        "updatedAt": "2020-06-08T09:35:09.000Z",
+        "id": 1838,
+        "imageSize": "ORIGINAL",
+        "imageName": "209071.png",
+        "mimeType": "image/png",
+        "path": "http://34.219.34.224/temp/images/209071.png"
+      }
+    ]
+  },
+  {
+    "createdAt": "2020-06-08T09:35:09.000Z",
+    "updatedAt": "2020-06-08T09:35:09.000Z",
+    "id": 1853,
+    "sku": "697589",
+    "name": "Aerius 2.5 mg/5 mL Syrup 60 mL",
+    "description": "Aerius 2.5 mg/5 mL Syrup 60 mL",
+    "price": 475,
+    "bonusPoints": 0,
+    "isRxFlag": true,
+    "defaultCategoryMapId": 136,
+    "generics": {
+      "createdAt": "2020-06-08T09:35:07.000Z",
+      "updatedAt": "2020-06-08T09:35:07.000Z",
+      "id": 96,
+      "name": "Desloratadine",
+      "genericName": "Desloratadine",
+      "description": "Desloratadine",
+      "pdfFile": "http://34.219.34.224/temp/pdf/Desloratadine.pdf"
+    },
+    "defaultProductCategory": {
+      "createdAt": "2020-06-08T09:35:07.000Z",
+      "updatedAt": "2020-06-08T09:35:07.000Z",
+      "id": 136,
+      "categoryKey": "9-58",
+      "categoryNames": [
+        "Medicines",
+        "Allergy"
+      ],
+      "orderKey": 0
+    },
+    "images": [
+      {
+        "createdAt": "2020-06-08T09:35:09.000Z",
+        "updatedAt": "2020-06-08T09:35:09.000Z",
+        "id": 1853,
+        "imageSize": "ORIGINAL",
+        "imageName": "MDC%20RX%20image_grey.png",
+        "mimeType": "image/png",
+        "path": "http://34.219.34.224/temp/images/MDC%20RX%20image_grey.png"
+      }
+    ]
+  },
+  {
+    "createdAt": "2020-06-08T09:35:09.000Z",
+    "updatedAt": "2020-06-08T09:35:09.000Z",
+    "id": 1854,
+    "sku": "903002",
+    "name": "Aforvir 5 mg/5 mL Syrup 60 mL",
+    "description": "Aforvir 5 mg/5 mL Syrup 60 mL",
+    "price": 220,
+    "bonusPoints": 0,
+    "isRxFlag": false,
+    "defaultCategoryMapId": 136,
+    "generics": {
+      "createdAt": "2020-06-08T09:35:07.000Z",
+      "updatedAt": "2020-06-08T09:35:07.000Z",
+      "id": 74,
+      "name": "Cetirizine",
+      "genericName": "Cetirizine",
+      "description": "Cetirizine, Cetirizine DiHydrochloride, Cetirizine Hydrochloride",
+      "pdfFile": "http://34.219.34.224/temp/pdf/Cetirizine.pdf"
+    },
+    "defaultProductCategory": {
+      "createdAt": "2020-06-08T09:35:07.000Z",
+      "updatedAt": "2020-06-08T09:35:07.000Z",
+      "id": 136,
+      "categoryKey": "9-58",
+      "categoryNames": [
+        "Medicines",
+        "Allergy"
+      ],
+      "orderKey": 0
+    },
+    "images": [
+      {
+        "createdAt": "2020-06-08T09:35:09.000Z",
+        "updatedAt": "2020-06-08T09:35:09.000Z",
+        "id": 1854,
+        "imageSize": "ORIGINAL",
+        "imageName": "903002.png",
+        "mimeType": "image/png",
+        "path": "http://34.219.34.224/temp/images/903002.png"
+      }
+    ]
+  },
+  {
+    "createdAt": "2020-06-08T09:35:09.000Z",
+    "updatedAt": "2020-06-08T09:35:09.000Z",
+    "id": 1855,
+    "sku": "314611",
+    "name": "Alduet 10 mg/10 mg Film-Coated Tablet 10's",
+    "description": "Alduet 10 mg/10 mg Film-Coated Tablet 10's",
+    "price": 275,
+    "bonusPoints": 0,
+    "isRxFlag": true,
+    "defaultCategoryMapId": 136,
+    "generics": {
+      "createdAt": "2020-06-08T09:35:07.000Z",
+      "updatedAt": "2020-06-08T09:35:07.000Z",
+      "id": 213,
+      "name": "Montelukast-Cetirizine",
+      "genericName": "Montelukast-Cetirizine",
+      "description": "Montelukast-Cetirizine",
+      "pdfFile": "http://34.219.34.224/temp/pdf/Montelukast-Cetirizine.pdf"
+    },
+    "defaultProductCategory": {
+      "createdAt": "2020-06-08T09:35:07.000Z",
+      "updatedAt": "2020-06-08T09:35:07.000Z",
+      "id": 136,
+      "categoryKey": "9-58",
+      "categoryNames": [
+        "Medicines",
+        "Allergy"
+      ],
+      "orderKey": 0
+    },
+    "images": [
+      {
+        "createdAt": "2020-06-08T09:35:09.000Z",
+        "updatedAt": "2020-06-08T09:35:09.000Z",
+        "id": 1855,
+        "imageSize": "ORIGINAL",
+        "imageName": "MDC%20RX%20image_grey.png",
+        "mimeType": "image/png",
+        "path": "http://34.219.34.224/temp/images/MDC%20RX%20image_grey.png"
+      }
+    ]
+  },
+  {
+    "createdAt": "2020-06-08T09:35:09.000Z",
+    "updatedAt": "2020-06-08T09:35:09.000Z",
+    "id": 1856,
+    "sku": "598202",
+    "name": "Allerkid 2.5 mg/mL Drops Grape 10 mL",
+    "description": "Allerkid 2.5 mg/mL Drops Grape 10 mL",
+    "price": 157,
+    "bonusPoints": 0,
+    "isRxFlag": false,
+    "defaultCategoryMapId": 136,
+    "generics": {
+      "createdAt": "2020-06-08T09:35:07.000Z",
+      "updatedAt": "2020-06-08T09:35:07.000Z",
+      "id": 74,
+      "name": "Cetirizine",
+      "genericName": "Cetirizine",
+      "description": "Cetirizine, Cetirizine DiHydrochloride, Cetirizine Hydrochloride",
+      "pdfFile": "http://34.219.34.224/temp/pdf/Cetirizine.pdf"
+    },
+    "defaultProductCategory": {
+      "createdAt": "2020-06-08T09:35:07.000Z",
+      "updatedAt": "2020-06-08T09:35:07.000Z",
+      "id": 136,
+      "categoryKey": "9-58",
+      "categoryNames": [
+        "Medicines",
+        "Allergy"
+      ],
+      "orderKey": 0
+    },
+    "images": [
+      {
+        "createdAt": "2020-06-08T09:35:09.000Z",
+        "updatedAt": "2020-06-08T09:35:09.000Z",
+        "id": 1856,
+        "imageSize": "ORIGINAL",
+        "imageName": "598202.png",
+        "mimeType": "image/png",
+        "path": "http://34.219.34.224/temp/images/598202.png"
+      }
+    ]
+  },
+  {
+    "createdAt": "2020-06-08T09:35:09.000Z",
+    "updatedAt": "2020-06-08T09:35:09.000Z",
+    "id": 1857,
+    "sku": "598200",
+    "name": "Allerkid 5 mg/5 mL Syrup Grape 30 mL",
+    "description": "Allerkid 5 mg/5 mL Syrup Grape 30 mL",
+    "price": 143.75,
+    "bonusPoints": 0,
+    "isRxFlag": false,
+    "defaultCategoryMapId": 136,
+    "generics": {
+      "createdAt": "2020-06-08T09:35:07.000Z",
+      "updatedAt": "2020-06-08T09:35:07.000Z",
+      "id": 74,
+      "name": "Cetirizine",
+      "genericName": "Cetirizine",
+      "description": "Cetirizine, Cetirizine DiHydrochloride, Cetirizine Hydrochloride",
+      "pdfFile": "http://34.219.34.224/temp/pdf/Cetirizine.pdf"
+    },
+    "defaultProductCategory": {
+      "createdAt": "2020-06-08T09:35:07.000Z",
+      "updatedAt": "2020-06-08T09:35:07.000Z",
+      "id": 136,
+      "categoryKey": "9-58",
+      "categoryNames": [
+        "Medicines",
+        "Allergy"
+      ],
+      "orderKey": 0
+    },
+    "images": [
+      {
+        "createdAt": "2020-06-08T09:35:09.000Z",
+        "updatedAt": "2020-06-08T09:35:09.000Z",
+        "id": 1857,
+        "imageSize": "ORIGINAL",
+        "imageName": "598200.png",
+        "mimeType": "image/png",
+        "path": "http://34.219.34.224/temp/images/598200.png"
+      }
+    ]
+  },
+  {
+    "createdAt": "2020-06-08T09:35:09.000Z",
+    "updatedAt": "2020-06-08T09:35:09.000Z",
+    "id": 1858,
+    "sku": "598201",
+    "name": "Allerkid 5 mg/5 mL Syrup Grape 60 mL",
+    "description": "Allerkid 5 mg/5 mL Syrup Grape 60 mL",
+    "price": 259,
+    "bonusPoints": 0,
+    "isRxFlag": false,
+    "defaultCategoryMapId": 136,
+    "generics": {
+      "createdAt": "2020-06-08T09:35:07.000Z",
+      "updatedAt": "2020-06-08T09:35:07.000Z",
+      "id": 74,
+      "name": "Cetirizine",
+      "genericName": "Cetirizine",
+      "description": "Cetirizine, Cetirizine DiHydrochloride, Cetirizine Hydrochloride",
+      "pdfFile": "http://34.219.34.224/temp/pdf/Cetirizine.pdf"
+    },
+    "defaultProductCategory": {
+      "createdAt": "2020-06-08T09:35:07.000Z",
+      "updatedAt": "2020-06-08T09:35:07.000Z",
+      "id": 136,
+      "categoryKey": "9-58",
+      "categoryNames": [
+        "Medicines",
+        "Allergy"
+      ],
+      "orderKey": 0
+    },
+    "images": [
+      {
+        "createdAt": "2020-06-08T09:35:09.000Z",
+        "updatedAt": "2020-06-08T09:35:09.000Z",
+        "id": 1858,
+        "imageSize": "ORIGINAL",
+        "imageName": "598201.png",
+        "mimeType": "image/png",
+        "path": "http://34.219.34.224/temp/images/598201.png"
+      }
+    ]
+  }
+]

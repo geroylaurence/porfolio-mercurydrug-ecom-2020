@@ -1,0 +1,4 @@
+1. install latest nodejs and npm
+2. go to the root folder
+3. Set PORT by typing, "Set PORT=<port-number>"
+4. Run Development mode, type "npm run dev"

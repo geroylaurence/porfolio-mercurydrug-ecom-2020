@@ -1,0 +1,336 @@
+[
+  {
+    "createdAt": "2020-06-08T09:35:09.000Z",
+    "updatedAt": "2020-06-08T09:35:09.000Z",
+    "id": 2825,
+    "sku": "612625",
+    "name": "Rhea Ascorbic Acid 500 mg Tablet 100's",
+    "description": "Rhea Ascorbic Acid 500 mg Tablet 100's",
+    "price": 230,
+    "bonusPoints": 0,
+    "isRxFlag": false,
+    "defaultCategoryMapId": 201,
+    "generics": {
+      "createdAt": "2020-06-08T09:35:07.000Z",
+      "updatedAt": "2020-06-08T09:35:07.000Z",
+      "id": 20,
+      "name": "Ascorbic Acid",
+      "genericName": "Ascorbic Acid",
+      "description": "Ascorbic Acid, Vit C",
+      "pdfFile": "http://34.219.34.224/temp/pdf/Vitamin%20C.pdf"
+    },
+    "defaultProductCategory": {
+      "createdAt": "2020-06-08T09:35:07.000Z",
+      "updatedAt": "2020-06-08T09:35:07.000Z",
+      "id": 201,
+      "categoryKey": "11-98",
+      "categoryNames": [
+        "Vitamins & Supplements",
+        "Vit C & Combinations"
+      ],
+      "orderKey": 0
+    },
+    "images": [
+      {
+        "createdAt": "2020-06-08T09:35:09.000Z",
+        "updatedAt": "2020-06-08T09:35:09.000Z",
+        "id": 2825,
+        "imageSize": "ORIGINAL",
+        "imageName": "612625.png",
+        "mimeType": "image/png",
+        "path": "http://34.219.34.224/temp/images/612625.png"
+      }
+    ]
+  },
+  {
+    "createdAt": "2020-06-08T09:35:09.000Z",
+    "updatedAt": "2020-06-08T09:35:09.000Z",
+    "id": 1734,
+    "sku": "870122",
+    "name": "Cleene Ethyl Alcohol 70% Solution 500 mL",
+    "description": "Cleene Ethyl Alcohol 70% Solution 500 mL",
+    "price": 65.75,
+    "bonusPoints": 0,
+    "isRxFlag": false,
+    "defaultCategoryMapId": 122,
+    "generics": null,
+    "defaultProductCategory": {
+      "createdAt": "2020-06-08T09:35:07.000Z",
+      "updatedAt": "2020-06-08T09:35:07.000Z",
+      "id": 122,
+      "categoryKey": "7-49",
+      "categoryNames": [
+        "Home Health Care",
+        "Topical Disinfectants"
+      ],
+      "orderKey": 0
+    },
+    "images": [
+      {
+        "createdAt": "2020-06-08T09:35:09.000Z",
+        "updatedAt": "2020-06-08T09:35:09.000Z",
+        "id": 1734,
+        "imageSize": "ORIGINAL",
+        "imageName": "870122.png",
+        "mimeType": "image/png",
+        "path": "http://34.219.34.224/temp/images/870122.png"
+      }
+    ]
+  },
+  {
+    "createdAt": "2020-06-08T09:35:09.000Z",
+    "updatedAt": "2020-06-08T09:35:09.000Z",
+    "id": 1670,
+    "sku": "867539",
+    "name": "Mediplast Plastic Strips Bantam 100's",
+    "description": "Mediplast Plastic Strips Bantam 100's",
+    "price": 100,
+    "bonusPoints": 0,
+    "isRxFlag": false,
+    "defaultCategoryMapId": 103,
+    "generics": null,
+    "defaultProductCategory": {
+      "createdAt": "2020-06-08T09:35:07.000Z",
+      "updatedAt": "2020-06-08T09:35:07.000Z",
+      "id": 103,
+      "categoryKey": "7-44",
+      "categoryNames": [
+        "Home Health Care",
+        "Dressings, Bandages & Plasters"
+      ],
+      "orderKey": 0
+    },
+    "images": [
+      {
+        "createdAt": "2020-06-08T09:35:09.000Z",
+        "updatedAt": "2020-06-08T09:35:09.000Z",
+        "id": 1670,
+        "imageSize": "ORIGINAL",
+        "imageName": "867539.png",
+        "mimeType": "image/png",
+        "path": "http://34.219.34.224/temp/images/867539.png"
+      }
+    ]
+  },
+  {
+    "createdAt": "2020-06-08T09:35:09.000Z",
+    "updatedAt": "2020-06-08T09:35:09.000Z",
+    "id": 1692,
+    "sku": "3648683",
+    "name": "Persona Wheelchair Reclining CA942",
+    "description": "Persona Wheelchair Reclining CA942",
+    "price": 11870,
+    "bonusPoints": 0,
+    "isRxFlag": false,
+    "defaultCategoryMapId": 112,
+    "generics": null,
+    "defaultProductCategory": {
+      "createdAt": "2020-06-08T09:35:07.000Z",
+      "updatedAt": "2020-06-08T09:35:07.000Z",
+      "id": 112,
+      "categoryKey": "7-45-159",
+      "categoryNames": [
+        "Home Health Care",
+        "Mobility Aids",
+        "Wheelchairs"
+      ],
+      "orderKey": 0
+    },
+    "images": [
+      {
+        "createdAt": "2020-06-08T09:35:09.000Z",
+        "updatedAt": "2020-06-08T09:35:09.000Z",
+        "id": 1692,
+        "imageSize": "ORIGINAL",
+        "imageName": "3648683.png",
+        "mimeType": "image/png",
+        "path": "http://34.219.34.224/temp/images/3648683.png"
+      }
+    ]
+  },
+  {
+    "createdAt": "2020-06-08T09:35:09.000Z",
+    "updatedAt": "2020-06-08T09:35:09.000Z",
+    "id": 1521,
+    "sku": "3934720",
+    "name": "GlucoDr Auto Easy Pack Blood Glucose Test Set with Test Strips, Lancing Device, Lancets",
+    "description": "GlucoDr Auto Easy Pack Blood Glucose Test Set with Test Strips, Lancing Device, Lancets",
+    "price": 1985,
+    "bonusPoints": 0,
+    "isRxFlag": false,
+    "defaultCategoryMapId": 77,
+    "generics": null,
+    "defaultProductCategory": {
+      "createdAt": "2020-06-08T09:35:07.000Z",
+      "updatedAt": "2020-06-08T09:35:07.000Z",
+      "id": 77,
+      "categoryKey": "3-31-149",
+      "categoryNames": [
+        "Diabetes Care",
+        "Home Tests & Monitoring",
+        "Blood Glucose Monitoring"
+      ],
+      "orderKey": 0
+    },
+    "images": [
+      {
+        "createdAt": "2020-06-08T09:35:09.000Z",
+        "updatedAt": "2020-06-08T09:35:09.000Z",
+        "id": 1521,
+        "imageSize": "ORIGINAL",
+        "imageName": "3934720.png",
+        "mimeType": "image/png",
+        "path": "http://34.219.34.224/temp/images/3934720.png"
+      }
+    ]
+  },
+  {
+    "createdAt": "2020-06-08T09:35:09.000Z",
+    "updatedAt": "2020-06-08T09:35:09.000Z",
+    "id": 1671,
+    "sku": "3603005",
+    "name": "Alp K-2 Sphygmomanometer Aneroid",
+    "description": "Alp K-2 Sphygmomanometer Aneroid",
+    "price": 1500,
+    "bonusPoints": 0,
+    "isRxFlag": false,
+    "defaultCategoryMapId": 106,
+    "generics": null,
+    "defaultProductCategory": {
+      "createdAt": "2020-06-08T09:35:07.000Z",
+      "updatedAt": "2020-06-08T09:35:07.000Z",
+      "id": 106,
+      "categoryKey": "7-31-154",
+      "categoryNames": [
+        "Home Health Care",
+        "Home Tests & Monitoring",
+        "Blood Pressure Monitoring"
+      ],
+      "orderKey": 0
+    },
+    "images": [
+      {
+        "createdAt": "2020-06-08T09:35:09.000Z",
+        "updatedAt": "2020-06-08T09:35:09.000Z",
+        "id": 1671,
+        "imageSize": "ORIGINAL",
+        "imageName": "3603005.png",
+        "mimeType": "image/png",
+        "path": "http://34.219.34.224/temp/images/3603005.png"
+      }
+    ]
+  },
+  {
+    "createdAt": "2020-06-08T09:35:09.000Z",
+    "updatedAt": "2020-06-08T09:35:09.000Z",
+    "id": 2833,
+    "sku": "691324",
+    "name": "Berocca Effervescent Tablet Orange 10's",
+    "description": "Berocca Effervescent Tablet Orange 10's",
+    "price": 203,
+    "bonusPoints": 0,
+    "isRxFlag": false,
+    "defaultCategoryMapId": 202,
+    "generics": {
+      "createdAt": "2020-06-08T09:35:07.000Z",
+      "updatedAt": "2020-06-08T09:35:07.000Z",
+      "id": 228,
+      "name": "Multivitamins-Minerals",
+      "genericName": "Multivitamins-Minerals",
+      "description": "Multivitamins-Minerals",
+      "pdfFile": null
+    },
+    "defaultProductCategory": {
+      "createdAt": "2020-06-08T09:35:07.000Z",
+      "updatedAt": "2020-06-08T09:35:07.000Z",
+      "id": 202,
+      "categoryKey": "11-99",
+      "categoryNames": [
+        "Vitamins & Supplements",
+        "Vitamins & Minerals - Adult"
+      ],
+      "orderKey": 0
+    },
+    "images": [
+      {
+        "createdAt": "2020-06-08T09:35:09.000Z",
+        "updatedAt": "2020-06-08T09:35:09.000Z",
+        "id": 2833,
+        "imageSize": "ORIGINAL",
+        "imageName": "691324.png",
+        "mimeType": "image/png",
+        "path": "http://34.219.34.224/temp/images/691324.png"
+      }
+    ]
+  },
+  {
+    "createdAt": "2020-06-08T09:35:09.000Z",
+    "updatedAt": "2020-06-08T09:35:09.000Z",
+    "id": 1539,
+    "sku": "503444",
+    "name": "Ensure Gold Adult Nutritional Supplemental Powdered Drink Chocolate 850 g",
+    "description": "Ensure Gold Adult Nutritional Supplemental Powdered Drink Chocolate 850 g",
+    "price": 1730,
+    "bonusPoints": 0,
+    "isRxFlag": false,
+    "defaultCategoryMapId": 79,
+    "generics": null,
+    "defaultProductCategory": {
+      "createdAt": "2020-06-08T09:35:07.000Z",
+      "updatedAt": "2020-06-08T09:35:07.000Z",
+      "id": 79,
+      "categoryKey": "3-33",
+      "categoryNames": [
+        "Diabetes Care",
+        "Nutritional Products"
+      ],
+      "orderKey": 0
+    },
+    "images": [
+      {
+        "createdAt": "2020-06-08T09:35:09.000Z",
+        "updatedAt": "2020-06-08T09:35:09.000Z",
+        "id": 1539,
+        "imageSize": "ORIGINAL",
+        "imageName": "503444.png",
+        "mimeType": "image/png",
+        "path": "http://34.219.34.224/temp/images/503444.png"
+      }
+    ]
+  },
+  {
+    "createdAt": "2020-06-08T09:35:09.000Z",
+    "updatedAt": "2020-06-08T09:35:09.000Z",
+    "id": 1541,
+    "sku": "503433",
+    "name": "Glucerna SR Adult Nutritional Supplemental Powdered Drink Chocolate 400 g",
+    "description": "Glucerna SR Adult Nutritional Supplemental Powdered Drink Chocolate 400 g",
+    "price": 923,
+    "bonusPoints": 0,
+    "isRxFlag": false,
+    "defaultCategoryMapId": 79,
+    "generics": null,
+    "defaultProductCategory": {
+      "createdAt": "2020-06-08T09:35:07.000Z",
+      "updatedAt": "2020-06-08T09:35:07.000Z",
+      "id": 79,
+      "categoryKey": "3-33",
+      "categoryNames": [
+        "Diabetes Care",
+        "Nutritional Products"
+      ],
+      "orderKey": 0
+    },
+    "images": [
+      {
+        "createdAt": "2020-06-08T09:35:09.000Z",
+        "updatedAt": "2020-06-08T09:35:09.000Z",
+        "id": 1541,
+        "imageSize": "ORIGINAL",
+        "imageName": "503433.png",
+        "mimeType": "image/png",
+        "path": "http://34.219.34.224/temp/images/503433.png"
+      }
+    ]
+  }
+]
