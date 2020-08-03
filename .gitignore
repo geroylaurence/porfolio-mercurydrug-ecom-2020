@@ -3,7 +3,7 @@ node_modules
 buildClient/
 buildServer/
 sample_assets/
-config/
+config/*
 
 # IDEs and editors
 /.idea
